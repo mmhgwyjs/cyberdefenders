@@ -10,7 +10,7 @@ The initial analysis performed by the company's team showed that many systems we
 
 **Difficulty:** Medium
 
-**File:** `file`
+**File:** `CD.Qradar.ova`
 
 **Tools:** `tool1` `tool2`
 
@@ -26,11 +26,26 @@ This lab is designed to work with VirtualBox. Download lab VM and uncompress it 
 
 - Please make sure to watch the instructional video under the Walkthroughs section.
   
-  > I did not see the instructional video, but you can follow along using this guide..
+  > I did not see the instructional video, but you can follow along using this guide.
   
 - Make sure you have a host-only subnet within the following IP range 192.168.20.0/24.
-  
+
+  ![image](https://github.com/user-attachments/assets/1f2fdd44-a3c3-42fa-b3e0-dd82f971387a)
+
+  > File -> Tools -> Network Manager -> Create
+
+  ![image](https://github.com/user-attachments/assets/8571f362-4077-4278-8067-460c55c96e7a)
+
+  ![image](https://github.com/user-attachments/assets/e11716ed-7950-4256-8a00-8310a2bf9ee0)
+
+  ![image](https://github.com/user-attachments/assets/9d3652bb-96af-4cf5-a310-3c6366113564)
+
 - Assign the proper network adapter (192.168.20.0/24) to the VM before starting it.
+
+  ![image](https://github.com/user-attachments/assets/3b198425-3863-4ac8-8aee-d515aef1b019)
+
+  > Settings -> Network -> Select the adapter we created.
+
 - Wait for some minutes after the import completes then visit: https://192.168.20.21/.
 - Challenge credentials: QRadar Dashboard: admin:Admin@123 - SSH: root:cyberdefenders
 - In case you face a license issue, please go to > License Pool Management. Edit and set eps > 0 and edit the FPM and set it to 0. This will ensure you will not have a license problem.
