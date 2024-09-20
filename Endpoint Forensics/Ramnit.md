@@ -10,7 +10,7 @@
 
 **File:** `file`
 
-**Tools:** `tool1` `tool2`
+**Tools:** `Volatility 3`
 
 **Note:** For this walkthrough, I have created an isolated virtual machine to analyze the provided file. If you have not set it up yet, I highly suggest following this [malware analysis lab](https://github.com/mmhgwyjs/malware-analysis-lab/blob/main/README.md) guide for your setup. 
 
