@@ -20,23 +20,19 @@
 
 ## **Questions and Answers:**
 
-***1. What is the question number one?***
+***1. We need to identify the process responsible for this suspicious behavior. What is the name of the suspicious process?***
 
-- Use this to explain:
-  `good for commandlets`
+***2. To eradicate the malware, what is the exact file path of the process executable?***
 
-  > comments
+***3. Identifying network connections is crucial for understanding the malware's communication strategy. What is the IP address it attempted to connect to?***
 
-  **Answer: `answer1`**
+***4. To pinpoint the geographical origin of the attack, which city is associated with the IP address the malware communicated with?***
 
-***2. What is the question number two?***
+***5. Hashes provide a unique identifier for files, aiding in detecting similar threats across machines. What is the SHA1 hash of the malware's executable?***
 
-- Use this to explain:
-  `good for commandlets`
+***6. Understanding the malware's development timeline can offer insights into its deployment. What is the compilation UTC timestamp of the malware?***
 
-  > comments
-
-  **Answer: `answer1`**
+***7. Identifying domains involved with this malware helps in blocking future malicious communications and identifying current possible communications with that domain in our network. Can you provide the domain related to the malware?***
 
 ---
 
