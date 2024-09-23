@@ -10,7 +10,7 @@
 
 **File:** `memory.dmp`
 
-**Tools:** `Volatility 3`
+**Tools:** `Volatility 3` `VirusTotal` `Exiftool`
 
 > [Volatility](https://github.com/volatilityfoundation/volatility3) is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.  
 
@@ -122,19 +122,29 @@
 
 - Use the `dumpfiles` plugin.
 
-  > sudo python3 /opt/volatility/volatility3/vol.py -f memory.dmp -o ~/Documents/cd/159-Ramnit/ windows.dumpfiles --pid 4628
+  ![image](https://github.com/user-attachments/assets/98c52a9c-ca1d-485c-a556-12189b865d5f)
+
+  > sudo python3 /opt/volatility/volatility3/vol.py -f ~/Documents/cd/159-Ramnit/memory.dmp -o . windows.dumpfiles --pid 4628 > dumpfiles.txt
+  
+- If you encounter an error stating that `Volatility could not import a necessary module: capstone`, install it using the following command: `sudo pip install capstone`.
+
+- Use `sha1sum` command of `ChromeSetup.exe` to get the required hash value.
+
+  ![image](https://github.com/user-attachments/assets/6b4a15c1-5469-4f10-9168-7153f4c34f64)
 
   **Answer: `280c9d36039f9432433893dee6126d72b9112ad2`**
 
 ***6. Understanding the malware's development timeline can offer insights into its deployment. What is the compilation UTC timestamp of the malware?***
 
-- Using `exiftool` on the dumped file.
+- Let us use the tool called `exiftool` to get the metadata of the file.
+
+  ![image](https://github.com/user-attachments/assets/10aed292-20ff-42b6-9b47-14f587c63917)
 
   **Answer: `2019-12-01 08:36:04`**
 
 ***7. Identifying domains involved with this malware helps in blocking future malicious communications and identifying current possible communications with that domain in our network. Can you provide the domain related to the malware?***
 
-- Using VirusTotal.
+- Using the hash value we obtained, we can utilize `VirusTotal` for further checks.
 
   ![image](https://github.com/user-attachments/assets/2bc68947-6e77-4632-a1be-a6faca26111d)
 
