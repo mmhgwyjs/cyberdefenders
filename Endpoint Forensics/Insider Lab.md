@@ -1,4 +1,4 @@
-# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/insider//">Insider Lab</a>
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/insider/">Insider Lab</a>
 
 **Platform:** CyberDefenders
 
