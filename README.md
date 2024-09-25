@@ -18,6 +18,7 @@ CyberDefenders is a blue team training platform for SOC analysts, threat hunters
 ## Network Forensics
 
 ## Threat Hunting
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Hunting/Kerberoasted.md">Kerberoasted</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Hunting/Qradar101.md">Qradar101</a>
 
 ## Threat Intel
