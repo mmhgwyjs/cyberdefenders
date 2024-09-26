@@ -42,7 +42,7 @@ Your Domain Controller is configured to audit Kerberos Service Ticket Operations
 
 ***1. What encryption type is currently in use within the network?***
 
-- Windows uses this event ID 4759 for both successful and failed service ticket requests.
+- Windows uses this event ID 4769 for both successful and failed service ticket requests.
 
   ![image](https://github.com/user-attachments/assets/c51b8cae-c5e0-4578-8e54-a9ee89e8a1dd)
 
