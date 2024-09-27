@@ -95,6 +95,8 @@ admin
 
 ![image](https://github.com/user-attachments/assets/09f1f03a-cb58-4dcc-96a9-578ff1c7fd3e)
 
+![image](https://github.com/user-attachments/assets/0b2f7720-0818-44e8-8a55-7377e936949e)
+
 admin:admin123!
 
 ***9. We need to determine if the attacker gained further access or control on our web server. What's the name of the malicious script uploaded by the attacker?***
