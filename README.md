@@ -24,7 +24,7 @@ CyberDefenders is a blue team training platform for SOC analysts, threat hunters
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Hunting/Qradar101.md">Qradar101</a>
 
 ## Threat Intel
-
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Intel/Intel101.md">Intel101</a>
 
 
 
