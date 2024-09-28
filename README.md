@@ -15,6 +15,7 @@ CyberDefenders is a blue team training platform for SOC analysts, threat hunters
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/WebLogic.md">WebLogic</a>
 
 ## Malware Analysis
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Malware%20Analysis/MalDoc101.md">MalDoc101</a>
 
 ## Network Forensics
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/Web%20Investigation.md">Web Investigation</a>
