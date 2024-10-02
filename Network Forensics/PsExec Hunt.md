@@ -37,10 +37,25 @@ sales-pc
 
 ***3. After identifying the initial entry point, it's crucial to understand how far the attacker has moved laterally within our network. Knowing the username of the account the attacker used for authentication will give us insights into the extent of the breach. What is the username utilized by the attacker for authentication?***
 
+![image](https://github.com/user-attachments/assets/6139500a-f350-40cd-aff6-049a6e296c7f)
+
+![image](https://github.com/user-attachments/assets/8f9af3fd-907d-4eae-88b7-6cbd3606704a)
+
+ssales
+
 ***4. After figuring out how the attacker moved within our network, we need to know what they did on the target machine. What's the name of the service executable the attacker set up on the target?***
 
+PSEXESVC.exe
+
 ***5. We need to know how the attacker installed the service on the compromised machine to understand the attacker's lateral movement tactics. This can help identify other affected systems. Which network share was used by PsExec to install the service on the target machine?***
+admin$
 
 ***6. We must identify the network share used to communicate between the two machines. Which network share did PsExec use for communication?***
+IPC$
 
 ***7. Now that we have a clearer picture of the attacker's activities on the compromised machine, it's important to identify any further lateral movement. What is the machine's hostname to which the attacker attempted to pivot within our network?***
+
+![image](https://github.com/user-attachments/assets/a8bb8394-0c7b-4b47-be58-e1aa609f14cd)
+
+![image](https://github.com/user-attachments/assets/c175b880-5376-4e5a-a00f-5c334aa92bed)
+
