@@ -38,6 +38,8 @@
 karen
 ![image](https://github.com/user-attachments/assets/ba8dbc4e-e781-479a-9f27-986b8764d380)
 
+![image](https://github.com/user-attachments/assets/3ce788a0-7de3-44d3-9a02-66fec86ce10f)
+
 ***2. What is the OS's build number?***
 ![image](https://github.com/user-attachments/assets/803a8525-0be2-4d29-bbdf-4c0b182f5516)
 
@@ -46,20 +48,68 @@ karen
 
 
 ***3. What is the hostname of the computer?***
+![image](https://github.com/user-attachments/assets/4c0f8d21-6b49-46ca-893e-5342f2f470bf)
+
+TOTALLYNOTAHACK
+
+![image](https://github.com/user-attachments/assets/eb6858d6-5079-4490-a3a0-529e15723666)
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName
+![image](https://github.com/user-attachments/assets/44951541-1e05-4f8b-96e7-0f7997bcf602)
 
 ***4. A messaging application was used to communicate with a fellow Alpaca enthusiast. What is the name of the software?***
+![image](https://github.com/user-attachments/assets/bbabde94-6393-4fbb-a708-8327af56fc80)
+
+HLKM\Software\Microsoft\Windows\CurrentVersion\Uninstall
+WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+skype
+
+![image](https://github.com/user-attachments/assets/d0de6ab3-c9b6-478f-ad4c-11ded9144c90)
+
 
 ***5. What is the zip code of the administrator's post?***
 
+![image](https://github.com/user-attachments/assets/f3fbca21-81b7-4c68-bf6e-e7da65e52188)
+19709
+
 ***6. What are the initials of the person who contacted the admin user from TAAUSAI?***
 
+MS
+
+![image](https://github.com/user-attachments/assets/fc3c6dc3-0952-400c-a250-78c98e65370c)
+
+![image](https://github.com/user-attachments/assets/7903d4f6-cc71-42aa-a022-291b67b6905d)
+
+![image](https://github.com/user-attachments/assets/48708747-f84d-4a9d-b38b-1921d127fac4)
+
 ***7. How much money was TAAUSAI willing to pay upfront?***
+150000
+![image](https://github.com/user-attachments/assets/4a61e5e1-43e0-484d-8cdf-d24a5a488c5e)
+
 
 ***8. What country is the admin user meeting the hacker group in?***
 
+egypt
+
+![image](https://github.com/user-attachments/assets/5e53ac9b-ceec-4ab6-bed5-646d01290b3e)
+
+![image](https://github.com/user-attachments/assets/8fd7d1a0-200a-439b-889c-69e4b24ab4b7)
+
 ***9. What is the machine's timezone? (Use the three-letter abbreviation)***
+![image](https://github.com/user-attachments/assets/10c4cdda-143a-4d49-bd63-67755b20741d)
+
+HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation
+UTC
 
 ***10. When was AlpacaCare.docx last accessed?***
+
+![image](https://github.com/user-attachments/assets/102cc8e4-634b-4cf2-be07-a7d0858b0b6e)
+
+![image](https://github.com/user-attachments/assets/8b427533-66d3-4ecb-ada9-3910cfd3dcaa)
+
+3/17/2019 9:52:20 PM
+
+03/17/2019 09:52 PM
 
 ***11. There was a second partition on the drive. What is the letter assigned to it?***
 
@@ -74,3 +124,13 @@ karen
 ***16. What is the URL used to download Skype?***
 
 ***17. What is the domain name of the website Karen browsed on Alpaca care that the file AlpacaCare.docx is based on?***
+
+
+
+additional
+
+![image](https://github.com/user-attachments/assets/dcdce0db-8b4f-49e7-acef-4523701b80ce)
+
+![image](https://github.com/user-attachments/assets/deb9aadc-3f93-470b-90cb-bcd01b5f9752)
+
+VGhlQ2FyZENyaWVzTm9Nb3Jl
