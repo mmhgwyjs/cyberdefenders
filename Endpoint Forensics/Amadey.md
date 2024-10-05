@@ -6,7 +6,7 @@
 
 **Category:** Endpoint Forensics
 
-**Difficulty:** Medium
+**Difficulty:** Easy
 
 **Files:** `N/A`
 
