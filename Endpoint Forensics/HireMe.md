@@ -10,7 +10,7 @@
 
 **Files:** `Horcrux.ad1` `Horcrux.ad1.txt`
 
-**Tools:** `FTK Imager`
+**Tools:** `FTK Imager` `Autopsy` `Registry Explorer` `MFTECmd.exe` `Timeline Explorer`
 
 > [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) is a free data preview and imaging tool used to acquire electronic evidence in a forensically sound manner by creating copies of computer data without making changes to the original evidence.
 
@@ -86,6 +86,7 @@ MS
 150000
 ![image](https://github.com/user-attachments/assets/4a61e5e1-43e0-484d-8cdf-d24a5a488c5e)
 
+![image](https://github.com/user-attachments/assets/49ec9a79-e991-429f-8893-e66ea3c8aff0)
 
 ***8. What country is the admin user meeting the hacker group in?***
 
@@ -111,26 +112,63 @@ UTC
 
 03/17/2019 09:52 PM
 
+![image](https://github.com/user-attachments/assets/4c1653ea-3fe2-4f58-bd77-f07f9eeb8b9c)
+
+mftecmd.exe
+mftecmd.exe -f $MFT --csv C:\Users\flrvm2\Documents\CD\62-HireMe --csvf mft.csv
+
+![image](https://github.com/user-attachments/assets/baa684e2-76f2-4b4d-9d03-b9ed8d81186a)
+
+![image](https://github.com/user-attachments/assets/e0acb166-421b-4248-a7b3-39574f7b40fe)
+
+![image](https://github.com/user-attachments/assets/303d9241-f13f-4b9d-a2e2-afc08146ea65)
+
 ***11. There was a second partition on the drive. What is the letter assigned to it?***
+A
+
+![image](https://github.com/user-attachments/assets/84c3eea0-875b-4649-9568-bca0e46e5d32)
 
 ***12. What is the answer to the question Company's manager asked Karen?***
+TheCardCriesNoMore
 
-***13. What is the job position offered to Karen? (3 words, 2 spaces in between)***
-
-***14. When was the admin user password last changed?***
-
-***15. What version of Chrome is installed on the machine?***
-
-***16. What is the URL used to download Skype?***
-
-***17. What is the domain name of the website Karen browsed on Alpaca care that the file AlpacaCare.docx is based on?***
-
-
-
-additional
 
 ![image](https://github.com/user-attachments/assets/dcdce0db-8b4f-49e7-acef-4523701b80ce)
 
 ![image](https://github.com/user-attachments/assets/deb9aadc-3f93-470b-90cb-bcd01b5f9752)
 
 VGhlQ2FyZENyaWVzTm9Nb3Jl
+
+***13. What is the job position offered to Karen? (3 words, 2 spaces in between)***
+cyber security analyst
+
+![image](https://github.com/user-attachments/assets/3d59498b-e4b8-4cef-9f58-3fbe807e2ac8)
+
+***14. When was the admin user password last changed?***
+03/21/2019 19:13:09
+![image](https://github.com/user-attachments/assets/bcf902d6-2bb3-4ae8-bc4a-c5fc2a2baf5c)
+
+![image](https://github.com/user-attachments/assets/ce216516-bb6e-47fa-ba73-ca0c9b9b5202)
+
+***15. What version of Chrome is installed on the machine?***
+72.0.3626.121
+![image](https://github.com/user-attachments/assets/64339bc1-9cea-43a3-b13f-3221120c5452)
+
+***16. What is the URL used to download Skype?***
+
+![image](https://github.com/user-attachments/assets/4464d26c-ac78-4f0c-a4bf-4add056906f1)
+
+https://download.skype.com/s4l/download/win/Skype-8.41.0.54.exe
+
+![image](https://github.com/user-attachments/assets/2402bce8-3227-4f55-b1db-e8359883fd5d)
+
+***17. What is the domain name of the website Karen browsed on Alpaca care that the file AlpacaCare.docx is based on?***
+
+![image](https://github.com/user-attachments/assets/b6b5a823-d260-4e8a-95c5-329e1a8c9c8a)
+
+![image](https://github.com/user-attachments/assets/f9dfa490-220a-4182-8548-630ababde606)
+
+![image](https://github.com/user-attachments/assets/53c49a75-146e-44dd-b570-43f50bcaff74)
+
+![image](https://github.com/user-attachments/assets/d96e433d-e73f-49f3-aedc-09f1fe9aa6fe)
+
+palominoalpacafarm.com
