@@ -22,9 +22,9 @@ https://blog.onfvp.com/post/volatility-cheatsheet/
 
 ![image](https://github.com/user-attachments/assets/145204b0-0838-4561-ab9d-28debfc9bb82)
 
-![image](https://github.com/user-attachments/assets/b8920fe9-c0c3-4f62-8d2c-870441590b18)
 
-![image](https://github.com/user-attachments/assets/072a20f0-3f60-4984-999f-8923b3518d5f)
+
+
 
 ![image](https://github.com/user-attachments/assets/7c2e2720-e128-4691-aae4-0e8d34945ed8)
 
@@ -33,8 +33,7 @@ The VM is slow
 ![image](https://github.com/user-attachments/assets/d4b2e29e-1bc8-4503-bf02-4c358417d750)
 
 /home/ubuntu/Desktop/Start\ here/Tools/volatility3/vol.py -f Windows\ 7\ x64-Snapshot4.vmem windows.info > info.txt
-![image](https://github.com/user-attachments/assets/83794ca7-3df7-4ced-a638-19683f224c5e)
-![image](https://github.com/user-attachments/assets/fb8c82b7-2888-415e-8775-29a19e6f9fbf)
+
 
 /home/ubuntu/Desktop/Start\ here/Tools/volatility3/vol.py -f Windows\ 7\ x64-Snapshot4.vmem windows.psscan > psscan.txt
 /home/ubuntu/Desktop/Start\ here/Tools/volatility3/vol.py -f Windows\ 7\ x64-Snapshot4.vmem windows.pslist > pslist.txt
