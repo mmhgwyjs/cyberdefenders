@@ -36,7 +36,7 @@ As a SOC Analyst, analyze the artifacts and answer the questions.
 ![image](https://github.com/user-attachments/assets/5c62e966-e4c1-4a04-a148-7c76fbf1eded)
 
 ***3. What is the SHA1 hash value of the malware?***  
-**Answer: `****************************************`**
+**Answer: `fa1002b02fc5551e075ec44bb4ff9cc13d563dcf`**
 
 ***4. What is the malware's family?***  
 **Answer: `******`**
