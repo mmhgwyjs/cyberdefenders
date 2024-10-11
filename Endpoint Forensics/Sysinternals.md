@@ -38,20 +38,53 @@ As a SOC Analyst, analyze the artifacts and answer the questions.
 ***3. What is the SHA1 hash value of the malware?***  
 **Answer: `fa1002b02fc5551e075ec44bb4ff9cc13d563dcf`**
 
+using AmcacheParser.exe
+
+AmcacheParser.exe -f C:\Users\flrvm2\Documents\CD\100-SysInternals\Amcache.hve --csv C:\Users\flrvm2\Documents\CD\100-SysInternals --csvf amcache.csv
+
+![image](https://github.com/user-attachments/assets/b8fc24cf-27c8-4691-9d84-5f738df28cea)
+
+![image](https://github.com/user-attachments/assets/ed8f7756-f3ae-4fc5-a672-4eaf08e60375)
+
+
 ***4. What is the malware's family?***  
-**Answer: `******`**
+**Answer: `rozena`**
+
+![image](https://github.com/user-attachments/assets/e0acfd5c-0bf1-4c04-8919-bd86d1b489fe)
 
 ***5. What is the first mapped domain's Fully Qualified Domain Name (FQDN)?***  
-**Answer: `***.**********.***`**
+**Answer: `www.malware430.com`**
+
+![image](https://github.com/user-attachments/assets/aa830c75-81fa-4bad-b196-20bfb66f28bc)
+
+Users\IEUser\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine
+
+![image](https://github.com/user-attachments/assets/46427452-1893-4ee6-83a3-15d64c474b19)
 
 ***6. The mapped domain is linked to an IP address. What is that IP address?***  
-**Answer: `***.***.**.**`**
+**Answer: `192.168.15.10`**
+
 
 ***7. What is the name of the executable dropped by the first-stage executable?***  
-**Answer: `*********.***`**
+**Answer: `vmtoolsIO.exe`**
+
+Users/IEUser/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/Cache/WMFWC1O7/SysInternals[1].exe
+
+![image](https://github.com/user-attachments/assets/1fd6c5f4-4d71-4734-ad8a-4acec6be740d)
+
+![image](https://github.com/user-attachments/assets/fc28cc3c-e623-4d7a-8c93-b78ecff759e1)
+
+strings.exe "C:\Users\flrvm2\Documents\CD\100-SysInternals\SysInternals[1].exe" > sysint.txt
+
+![image](https://github.com/user-attachments/assets/3bc9ae08-552f-4060-9d8c-f555fedc125d)
 
 ***8. What is the name of the service installed by the 2nd stage executable?***  
-**Answer: `*********************`**
+**Answer: VMwareIOHelperService
+
+![image](https://github.com/user-attachments/assets/6ed6fa76-0d1a-4b61-b53f-2281bc8ba668)
+
 
 ***9. What is the extension of files deleted by the 2nd stage executable?***  
 **Answer: `**********`**
+
+pf
