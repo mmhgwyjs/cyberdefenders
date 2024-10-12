@@ -18,16 +18,25 @@ Your role in the team is to conduct a detailed analysis of the evidence to deter
 
 ## **Preparations**
 
-![image](https://github.com/user-attachments/assets/0068c36b-9b1e-4764-af19-7f4506015c9f)
+![image](https://github.com/user-attachments/assets/8496118d-a955-4214-8789-850b8ffa292e)
 
-![image](https://github.com/user-attachments/assets/4cac96b7-b3cf-4853-9a0b-c0219cb22e3e)
+![image](https://github.com/user-attachments/assets/1cf84ff5-6418-48b9-9cbc-6f732b2b7b53)
+
+
 
 ## **Questions and Answers**
 
 Got it! Here’s the complete set with all the original sentences included:
 
 ***1. What was the source IP responsible for potential port scanning activity?***  
-**Answer: `**.**.**.**`**
+**Answer: `87.96.21.84`**
+
+![image](https://github.com/user-attachments/assets/a112d499-52cc-4ebb-addc-a032c575d4fc)
+
+![image](https://github.com/user-attachments/assets/47ff6201-bd90-45f8-9d9c-a74956ccbc76)
+
+![image](https://github.com/user-attachments/assets/b02727b6-ed1b-444f-bbd8-d7b70545acaa)
+
 
 ***2. During the investigation, it's essential to determine the account targeted by the attacker. Can you identify the targeted account username?***  
 **Answer: `**`**
