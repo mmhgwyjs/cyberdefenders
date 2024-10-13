@@ -8,13 +8,11 @@
 
 **Difficulty:** Medium
 
-**File:** `memory.dmp`
+**File:** `UNADJUSTEDNONRAW_thumb_4859.jpg`
 
-**Tools:** `Volatility 3` `VirusTotal` `Exiftool`
+**Tools:** `Google` 
 
-> [Volatility](https://github.com/volatilityfoundation/volatility3) is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.  
-
-**Note:** In this walkthrough, I will use the SIFT Workstation from SANS to analyze the provided file. If you have not set it up yet, I highly recommend following this [forensics lab](https://github.com/mmhgwyjs/forensics-lab/blob/main/README.md) guide for assistance with your installation.
+**Note:** In this walkthrough, we will use our OSINT skills. All we need is the Internet.
 
 ---
 
