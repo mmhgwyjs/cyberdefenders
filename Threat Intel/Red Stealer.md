@@ -1,8 +1,10 @@
-![image](https://github.com/user-attachments/assets/fa1c35f7-b1c0-49f9-af5c-e841b27c749e)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer//">Red Stealer</a>
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer//">Red Stealer</a>
 
 **Platform:** CyberDefenders
 
-**Scenario:** Open-source intelligence (OSINT) exercise to practice mining and analyzing public data to produce meaningful intel when investigating external threats as a security blue team analyst.
+**Scenario:** You are part of the Threat Intelligence team in the SOC (Security Operations Center). An executable file has been discovered on a colleague's computer, and it's suspected to be linked to a Command and Control (C2) server, indicating a potential malware infection.
+
+Your task is to investigate this executable by analyzing its hash. The goal is to gather and analyze data that is beneficial to other SOC members, including the Incident Response team, in order to efficiently respond to this suspicious behavior.
 
 **Category:** Threat Intel
 
