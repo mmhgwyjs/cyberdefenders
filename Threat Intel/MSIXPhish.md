@@ -23,16 +23,26 @@ File Hash (SHA-256): 11b71429869f29122236a44a292fde3f0269cde8eb76a52c89139f79f4b
 ## **Questions and Answers**
 
 ***Q1: To effectively mitigate the threat, it's important to determine the origin or category of this malware. Can you identify which malware family this sample is associated with to better understand its typical behaviors and associated risks?***  
-**Answer: `trojan`**
+**Answer: `Batloader`**
+
+![image](https://github.com/user-attachments/assets/e62b98b2-2dd4-4727-aba9-78b50fe73d47)
+
 
 ***Q2: It's important to identify the malware's first public appearance to effectively track its history and spread. Can you provide the initial submission date and time of this malware on VirusTotal?***  
-**Answer: `2022-03-15 14:23:00 UTC`**  
+**Answer: `12-12-2023 18:08:13`**  
+
+![image](https://github.com/user-attachments/assets/918fa587-d5c5-436d-ae8b-007068d35283)
+
 
 ***Q3: Recognizing a specific MITRE technique employed by the malware helps develop targeted defense strategies. What's the MITRE ID of the technique used by the malware for data collection?***  
-**Answer: `T1005`**  
+**Answer: `T1056`**  
+
+![image](https://github.com/user-attachments/assets/d9b9f036-afe9-4560-8058-10fe2778387e)
 
 ***Q4: Knowing the names of executable files dropped by the malware aids in detecting and isolating infected machines. What is the executable file name dropped by the malware?***  
-**Answer: `malware.exe`**  
+**Answer: `Install.exe`**  
+
+![image](https://github.com/user-attachments/assets/792c418c-3231-406f-8db3-51069f8a2924)
 
 ***Q5: Continuing on the previous question. Can you identify the name of the second execution parent observed in the wild for the executable discovered?***  
 **Answer: `parent_process.exe`**  
