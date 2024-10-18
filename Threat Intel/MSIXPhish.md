@@ -45,13 +45,26 @@ File Hash (SHA-256): 11b71429869f29122236a44a292fde3f0269cde8eb76a52c89139f79f4b
 ![image](https://github.com/user-attachments/assets/792c418c-3231-406f-8db3-51069f8a2924)
 
 ***Q5: Continuing on the previous question. Can you identify the name of the second execution parent observed in the wild for the executable discovered?***  
-**Answer: `parent_process.exe`**  
+**Answer: `ZoomInstaller.msix`**
+
+![image](https://github.com/user-attachments/assets/595e064b-3400-4647-8d47-aac5aa84b913)
 
 ***Q6: Identifying the domains used in attacks can help block future malicious communication and understand attacker infrastructure. What domain is used by the threat actor to host the illegitimate application installer?***  
-**Answer: `maliciousdomain.com`**  
+**Answer: `scheta.site`**  
+
+![image](https://github.com/user-attachments/assets/919a4f37-29ba-4a56-81f7-34e8394a4bb8)
+
 
 ***Q7: We need to identify the access vector abused by the malware to mitigate it. What protocol handler is exploited by the malware?***  
-**Answer: `http`**  
+**Answer: `ms-appinstaller`**  
+
+![image](https://github.com/user-attachments/assets/c8d342d3-203d-4285-8a41-c6436c754638)
+
 
 ***Q8: Uncovering the threat actor associated with this malware is key to understanding their tactics, techniques, and procedures (TTPs) and bolstering defenses against future attacks. Can you provide the name of the threat actor?***  
-**Answer: `APT28`**  
+**Answer: `Storm-0569`**  
+
+![image](https://github.com/user-attachments/assets/d2223f16-3ffa-4320-a7b1-8b876172a940)
+
+https://www.microsoft.com/en-us/security/blog/2023/12/28/financially-motivated-threat-actors-misusing-app-installer/?msockid=2ff8d90225666b133fd4cacb24726a2a
+
