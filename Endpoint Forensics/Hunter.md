@@ -14,7 +14,7 @@ Your objective as a soc analyst is to analyze the image and to either confirm or
 
 **Difficulty:** Medium
 
-**Files:** `Horcrux.ad1` `Horcrux.ad1.txt`
+**Files:** `Hunter.ad1` `Hunter.ad1.txt`
 
 **Tools:** `FTK Imager` `Autopsy` `Registry Explorer` `MFTECmd.exe` `Timeline Explorer`
 
