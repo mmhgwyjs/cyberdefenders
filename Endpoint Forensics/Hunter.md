@@ -26,6 +26,15 @@ Your objective as a soc analyst is to analyze the image and to either confirm or
 
 ***1. What is the computer name of the suspect machine?***
 
+4ORENSICS
+Windows/System32/config/System
+![image](https://github.com/user-attachments/assets/09bdb1d1-216a-468f-9fe7-3690231011ca)
+ftk
+
+![image](https://github.com/user-attachments/assets/87a3f39a-1953-40c4-973f-1d9e9585ab9d)
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName
+registry explorer
+
 ***2. What is the computer IP?***
 
 ***3. What was the DHCP LeaseObtainedTime?***
