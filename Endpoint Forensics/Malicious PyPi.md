@@ -18,11 +18,17 @@ A triage image has been taken from his computer, and it is imperative to swiftly
 
 ## **Preparations** 
 
+![image](https://github.com/user-attachments/assets/bc3c12fb-0680-4ce0-a2e7-a1f1a28f1bac)
+
   
 ## **Questions and Answers**
 
 ***1. Dr. Alex Rivera recently downloaded an external library that raised suspicions about system security. Can you identify the specific command used for this download?***  
-***-***** ***+*****://******.***/*****/**********.***#***=**********  
+pip install git+https://github.com/a1l4m/TensorFlow.git#egg=TensorFlow
+
+![image](https://github.com/user-attachments/assets/cba54d19-7ad6-458b-ac61-9c525a65b243)
+
+C:\Users\Administrator\Desktop\Start Here\Artifacts\C\Users\Administrator\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline
 
 ***2. During the investigation, you uncover a command that modified the system's security settings, resulting in the deactivation of Windows Defender in a manner that could assist an attacker. What was this command?***  
 ***-************ -************************* $*******  
