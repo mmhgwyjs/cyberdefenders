@@ -33,12 +33,40 @@ C:\Users\Administrator\Desktop\Start Here\Artifacts\C\Users\Administrator\AppDat
 ***2. During the investigation, you uncover a command that modified the system's security settings, resulting in the deactivation of Windows Defender in a manner that could assist an attacker. What was this command?***  
 ***-************ -************************* $*******  
 
+C\Windows\System32\winevt\logs
+
+![image](https://github.com/user-attachments/assets/3e62fbb7-9210-4af1-97a9-4811130c0c47)
+
+Set-MpPreference -DisableRealtimeMonitoring $true
+
+![image](https://github.com/user-attachments/assets/ad04b017-3130-47a4-bb75-094e3d70cd75)
+
+![image](https://github.com/user-attachments/assets/783e5676-4100-4411-8395-d032e0d92853)
+
+
 ***3. Based on your timeline analysis, at what date and time did you first observe unauthorized changes to the security settings that led to the disabling of Windows Defender? Provide the exact UTC timestamp.***  
-YYYY-MM-DD HH:MM:SS  
-Answer Format: YYYY-MM-DD HH:MM:SS  
+2024-02-26 12:22:17
+
+![image](https://github.com/user-attachments/assets/68b86f56-85df-4549-a7b5-305133788125)
 
 ***4. After the security settings were compromised, a new file appeared on the system. What is the md5 hash of this file, indicating its unique identity?***  
-********************************  
+
+C:\Users\Administrator\Desktop\Start Here\Tools\ZimmermanTools\net6>.\MFTECmd.exe -f "C:\Users\Administrator\Desktop\Start Here\Artifacts\C\$MFT" --csv C:\Users\Administrator\Desktop\ --csvf mft.csv
+
+![image](https://github.com/user-attachments/assets/48d0381b-8967-48bb-9fc2-ff587d1f46af)
+
+![image](https://github.com/user-attachments/assets/907f1eef-8c7d-49d5-b560-364de3fbaa20)
+
+![image](https://github.com/user-attachments/assets/8f04dbc2-8f40-4906-b0db-fc112902bbc9)
+
+23AADF3C98745CF293BFF6B1B0980429
+
+ Get-FileHash .\setup.exe -Algorithm MD5
+ ![image](https://github.com/user-attachments/assets/cfb1a67f-cd50-4a2e-919c-fcd1fdac8687)
+
+ 
+![image](https://github.com/user-attachments/assets/22c6bd9b-61d4-4556-97b0-80ef206a515f)
+
 
 ***5. Investigate the origin of the malicious file detected on the server. What was the exact URL from which this file was initially downloaded before it started communicating with external C2 servers?***  
 ****://*.**.**.***:****/****.***  
