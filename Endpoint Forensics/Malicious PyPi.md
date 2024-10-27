@@ -69,7 +69,11 @@ C:\Users\Administrator\Desktop\Start Here\Tools\ZimmermanTools\net6>.\MFTECmd.ex
 
 
 ***5. Investigate the origin of the malicious file detected on the server. What was the exact URL from which this file was initially downloaded before it started communicating with external C2 servers?***  
-****://*.**.**.***:****/****.***  
+http://3.66.85.252:8000/file.exe
+
+![image](https://github.com/user-attachments/assets/24cafeba-00e0-4ada-a77d-fdc73607f991)
+
+C:\Users\Administrator\Desktop\Start Here\Artifacts\C\Users\Administrator\AppData\Local\Temp
 
 ***6. The file in the previous questions started communicating with an external C2 server. What port was used for this communication?***  
 ****  
