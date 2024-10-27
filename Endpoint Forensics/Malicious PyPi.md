@@ -76,11 +76,16 @@ http://3.66.85.252:8000/file.exe
 C:\Users\Administrator\Desktop\Start Here\Artifacts\C\Users\Administrator\AppData\Local\Temp
 
 ***6. The file in the previous questions started communicating with an external C2 server. What port was used for this communication?***  
-****  
+8888
+
+![image](https://github.com/user-attachments/assets/98ca5c39-6062-40a7-a918-917182723fea)
 
 ***7. Attackers often ensure their continued access to a compromised system through persistence mechanisms. When was such a mechanism established on Dr. Rivera's system? Provide the UTC timestamp.***  
-YYYY-MM-DD HH:MM:SS  
-Answer Format: YYYY-MM-DD HH:MM:SS  
+2024-02-26 12:36:52
+
+![image](https://github.com/user-attachments/assets/b2855a98-e01d-49f9-9f0c-507a04f10c12)
+
+C:\Users\Administrator\Desktop\Start Here\Artifacts\C\Windows\System32\Tasks
 
 ***8. After the attacker completed their intrusion, a specific file was left behind on the host system. Based on the information you've gathered, identify the name of this file, which was created shortly after the attacker established persistence on the system.***  
 ******.***  
