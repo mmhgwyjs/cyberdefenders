@@ -87,12 +87,18 @@ C:\Users\Administrator\Desktop\Start Here\Artifacts\C\Users\Administrator\AppDat
 
 C:\Users\Administrator\Desktop\Start Here\Artifacts\C\Windows\System32\Tasks
 
+![image](https://github.com/user-attachments/assets/d5793863-dca3-4dab-ace0-e31db7c5aba3)
+
 ***8. After the attacker completed their intrusion, a specific file was left behind on the host system. Based on the information you've gathered, identify the name of this file, which was created shortly after the attacker established persistence on the system.***  
-******.***  
+system.exe
+
+![image](https://github.com/user-attachments/assets/91da669b-e91f-4562-a92a-4ccfe99ac037)
 
 ***9. Determine the exact moment the malicious file identified in Question 8 began its operation. When was it first executed? Provide the UTC timestamp.***  
-YYYY-MM-DD HH:MM:SS  
-Answer Format: YYYY-MM-DD HH:MM:SS  
+2024-02-26 12:42:21
+
+![image](https://github.com/user-attachments/assets/9e330b8f-664b-4194-bcc7-26eda48085c9)
+
 
 ***10. After identifying the malicious file in Question 8, it is crucial to determine the name of the malware family. This information is vital for correlating the attack with known threats and developing appropriate defenses. What is the malware family name for the malicious file in Question 8?***  
 ******
