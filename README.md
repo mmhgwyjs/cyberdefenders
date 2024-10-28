@@ -14,6 +14,7 @@ CyberDefenders is a blue team training platform for SOC analysts, threat hunters
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/HireMe.md">HireMe</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/Hunter.md">Hunter</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/Insider.md">Insider</a>
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/Malicious%20PyPi.md">Malicious PyPi</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/Ramnit.md">Ramnit</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/RedLine.md">RedLine</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Endpoint%20Forensics/Reveal.md">Reveal</a>
@@ -26,7 +27,11 @@ CyberDefenders is a blue team training platform for SOC analysts, threat hunters
 ## Network Forensics
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/BlueSky%20Ransomware.md">BlueSky Ransomware</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/DanaBot.md">DanaBot</a>
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/OpenWire.md">OpenWire</a>
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/PacketDetective.md">PacketDetective</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/PsExec%20Hunt.md">PsExec Hunt</a>
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/T1594.md">T1594</a>
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/Tomcat%20Takeover.md">Tomcat Takeover</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Network%20Forensics/Web%20Investigation.md">Web Investigation</a>
 
 ## Threat Hunting
@@ -37,7 +42,9 @@ CyberDefenders is a blue team training platform for SOC analysts, threat hunters
 ## Threat Intel
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Intel/3CX%20Supply%20Chain.md">3CX Supply Chain</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Intel/Intel101.md">Intel101</a>
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Intel/MSIXPhish.md">MSIXPhish</a>
 - <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Intel/Red%20Stealer.md">Red Stealer</a>
+- <a href="https://github.com/mmhgwyjs/cyberdefenders/blob/main/Threat%20Intel/Yellow%20RAT.md">Yellow RAT</a>
 
 
 
