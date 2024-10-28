@@ -101,4 +101,17 @@ system.exe
 
 
 ***10. After identifying the malicious file in Question 8, it is crucial to determine the name of the malware family. This information is vital for correlating the attack with known threats and developing appropriate defenses. What is the malware family name for the malicious file in Question 8?***  
-******
+
+![image](https://github.com/user-attachments/assets/ad5b0301-44de-4197-bf3c-d0c7297a7d49)
+
+Get-FileHash .\system.exe -Algorithm SHA256  
+
+![image](https://github.com/user-attachments/assets/6aa21328-c828-4f86-ac0a-30befe922336)
+
+![image](https://github.com/user-attachments/assets/05b7c868-6971-4ecd-b9ec-79707638be88)
+
+aurora
+
+![image](https://github.com/user-attachments/assets/da89585d-1fc0-48aa-9417-fde8dc6f1fc6)
+
+
