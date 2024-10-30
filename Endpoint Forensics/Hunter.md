@@ -37,7 +37,22 @@ registry explorer
 
 ***2. What is the computer IP?***
 
+10.0.2.15
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces
+
+![image](https://github.com/user-attachments/assets/61066529-ecf7-4e4e-a17e-babdfb19f7ae)
+
 ***3. What was the DHCP LeaseObtainedTime?***
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces
+
+21/06/2016 02:24:12 UTC
+
+![image](https://github.com/user-attachments/assets/6365d6f6-0070-4d2b-a166-61b18b7ef8ba)
+1466475852
+
+![image](https://github.com/user-attachments/assets/3b421103-d60e-4516-8977-e1ea1a792af8)
+using DCODE tool
 
 ***4. What is the computer SID?***
 
