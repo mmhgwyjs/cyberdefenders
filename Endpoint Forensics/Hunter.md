@@ -56,9 +56,28 @@ using DCODE tool
 
 ***4. What is the computer SID?***
 
+S-1-5-21-2489440558-2754304563-710705792
+
+![image](https://github.com/user-attachments/assets/2f519c14-526a-4df7-b737-db25a3c539fe)
+
+![image](https://github.com/user-attachments/assets/97b9204f-4a9c-4b62-af9e-cc246a675218)
+
 ***5. What is the Operating System(OS) version?***
+8.1
+
+![image](https://github.com/user-attachments/assets/c7d0732a-2af7-4103-b794-076170d72426)
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProductName
 
 ***6. What was the computer timezone?***
+
+UTC-07:00
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation\TimeZoneKeyName
+
+![image](https://github.com/user-attachments/assets/6c1f3717-74e8-40aa-8393-54a73684043e)
+
+
 
 ***7. How many times did this user log on to the computer?***
 
