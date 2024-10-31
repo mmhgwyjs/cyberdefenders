@@ -81,6 +81,8 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation\TimeZone
 
 ***7. How many times did this user log on to the computer?***
 
+3
+
 ![image](https://github.com/user-attachments/assets/0b78669d-b287-4b44-ae1f-54db445d88e9)
 
 evtxecmd.exe -f Security.evtx --csv . --csvf security.csv
@@ -93,6 +95,10 @@ evtxecmd.exe -f Security.evtx --csv . --csvf security.csv
 SAM\Domains\Account\Users
 
 ***8. When was the last login time for the discovered account? Format: one-space between date and time***
+
+![image](https://github.com/user-attachments/assets/c7be30f3-c133-4b77-8a5b-4cf826fcbbe3)
+
+2016-06-21 01:42:40
 
 ***9. There was a “Network Scanner” running on this computer, what was it? And when was the last time the suspect used it? Format: program.exe,YYYY-MM-DD HH:MM:SS UTC***
 
