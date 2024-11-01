@@ -102,6 +102,14 @@ SAM\Domains\Account\Users
 
 ***9. There was a “Network Scanner” running on this computer, what was it? And when was the last time the suspect used it? Format: program.exe,YYYY-MM-DD HH:MM:SS UTC***
 
+zenmap.exe,2016-06-21 12:08:13 UTC
+
+![image](https://github.com/user-attachments/assets/4fb7192f-7582-486e-a652-b91272b3a355)
+
+pecmd -f ZENMAP.EXE-56B17C4C.pf
+
+![image](https://github.com/user-attachments/assets/6054212e-c7c8-4bbe-b64c-625d6f83bcb8)
+
 ***10. When did the port scan end? (Example: Sat Jan 23 hh:mm:ss 2016)***
 
 ***11. How many ports were scanned?***
