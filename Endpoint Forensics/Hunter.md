@@ -112,11 +112,31 @@ pecmd -f ZENMAP.EXE-56B17C4C.pf
 
 ***10. When did the port scan end? (Example: Sat Jan 23 hh:mm:ss 2016)***
 
+Tue Jun 21 05:12:09 2016
+
+![image](https://github.com/user-attachments/assets/09e631aa-5a55-4505-8f23-8f4e32579dfb)
+
+![image](https://github.com/user-attachments/assets/a6388224-7d6e-4943-b2a9-2e7602c39a93)
+
+![image](https://github.com/user-attachments/assets/67cfee78-bc70-49a3-9b2c-1674b09b63de)
+
 ***11. How many ports were scanned?***
+
+1000
+
+![image](https://github.com/user-attachments/assets/b540b5ba-5906-4bc9-9dab-9348ebea4eec)
 
 ***12. What ports were found "open"?(comma-separated, ascending)***
 
+![image](https://github.com/user-attachments/assets/0d9ec4c7-7373-48a5-98d2-16444baeb4f9)
+
+22,80,9929,31337
+
 ***13. What was the version of the network scanner running on this computer?***
+
+7.12
+
+![image](https://github.com/user-attachments/assets/ec342eec-0641-4b5f-9ef5-4dbfd8937ed9)
 
 ***14. The employee engaged in a Skype conversation with someone. What is the skype username of the other party?***
 
