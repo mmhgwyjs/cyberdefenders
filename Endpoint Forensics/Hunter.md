@@ -140,6 +140,18 @@ Tue Jun 21 05:12:09 2016
 
 ***14. The employee engaged in a Skype conversation with someone. What is the skype username of the other party?***
 
+linux-rul3z
+
+![image](https://github.com/user-attachments/assets/e1a4e934-b262-452b-b826-42d2306b87a3)
+
+![image](https://github.com/user-attachments/assets/239b43d0-b8c5-4099-8b88-dfd9aff3af9a)
+
+/Users/Hunter/AppData/Roaming/Skype/hunterehpt
+
+Chatgpt
+![image](https://github.com/user-attachments/assets/0d71bc9b-a0d6-4a06-a456-16621ffd9bdc)
+
+
 ***15. What is the name of the application both parties agreed to use to exfiltrate data and provide remote access for the external attacker in their Skype conversation?***
 
 ***16. What is the Gmail email address of the suspect employee?***
