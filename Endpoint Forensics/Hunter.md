@@ -1,4 +1,4 @@
-# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/hunter//">Hunter</a>
+![image](https://github.com/user-attachments/assets/4471b26c-9f0d-48af-8f98-437e786475f4)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/hunter//">Hunter</a>
 
 **Platform:** CyberDefenders
 
@@ -166,11 +166,43 @@ ehptmsgs@gmail.com
 
 ***17. It looks like the suspect user deleted an important diagram after his conversation with the external attacker. What is the file name of the deleted diagram?***
 
+![image](https://github.com/user-attachments/assets/dbc201d0-c2fc-4eed-9cb8-78d43f8eb627)
+
+not found in recycle bin
+
+Kernel Outlook PST Viewer
+![image](https://github.com/user-attachments/assets/9e62d4fe-fbc2-4a57-8f94-ef493786dcd1)
+
+![image](https://github.com/user-attachments/assets/0049796d-d618-4aac-9378-0f71ee8ffb0b)
+
+home-network-design-networking-for-a-single-family-home-case-house-arkko-1433-x-792.jpg
+
+![image](https://github.com/user-attachments/assets/013eb12f-717f-4ca7-9396-52e7eadc58ff)
+
+![image](https://github.com/user-attachments/assets/a22176b7-8511-4d0d-a401-3e9c78a353a2)
+
 ***18. The user Documents' directory contained a PDF file discussing data exfiltration techniques. What is the name of the file?***
+
+![image](https://github.com/user-attachments/assets/d934053b-ffb9-4226-bd37-ae72e9578b4f)
+
+![image](https://github.com/user-attachments/assets/44de34fb-4fe0-4c56-866a-09e07740f196)
+
+![image](https://github.com/user-attachments/assets/09d947f0-afb5-4a84-9ea1-b1b63f1d36ee)
+
+Ryan_VanAntwerp_thesis.pdf
 
 ***19. What was the name of the Disk Encryption application Installed on the victim system? (two words space separated)***
 
+![image](https://github.com/user-attachments/assets/88b9e9e2-eb8b-4299-9362-1a981b5fa407)
+
+![image](https://github.com/user-attachments/assets/35c54370-1903-4285-ac43-d3825732c92d)
+
 ***20. What are the serial numbers of the two identified USB storage?***
+
+07B20C03C80830A9,AAI6UXDKZDV8E9OU
+
+![image](https://github.com/user-attachments/assets/3a4d41e3-8d02-401d-9ca5-e5c71def6ef1)
+
 
 ***21. One of the installed applications is a file shredder. What is the name of the application? (two words space separated)***
 
