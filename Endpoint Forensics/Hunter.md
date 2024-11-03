@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4471b26c-9f0d-48af-8f98-437e786475f4)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/hunter//">Hunter</a>
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/hunter//">Hunter</a>
 
 **Platform:** CyberDefenders
 
@@ -169,6 +169,8 @@ ehptmsgs@gmail.com
 ![image](https://github.com/user-attachments/assets/dbc201d0-c2fc-4eed-9cb8-78d43f8eb627)
 
 not found in recycle bin
+
+![image](https://github.com/user-attachments/assets/4471b26c-9f0d-48af-8f98-437e786475f4)
 
 Kernel Outlook PST Viewer
 ![image](https://github.com/user-attachments/assets/9e62d4fe-fbc2-4a57-8f94-ef493786dcd1)
