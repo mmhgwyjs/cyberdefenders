@@ -154,7 +154,15 @@ Chatgpt
 
 ***15. What is the name of the application both parties agreed to use to exfiltrate data and provide remote access for the external attacker in their Skype conversation?***
 
+teamviewer
+
+![image](https://github.com/user-attachments/assets/3e875f84-37c0-43aa-a228-af2c341c6c95)
+
 ***16. What is the Gmail email address of the suspect employee?***
+
+ehptmsgs@gmail.com
+
+![image](https://github.com/user-attachments/assets/4162f79a-d075-4f9d-9ec0-9494943a33c8)
 
 ***17. It looks like the suspect user deleted an important diagram after his conversation with the external attacker. What is the file name of the deleted diagram?***
 
