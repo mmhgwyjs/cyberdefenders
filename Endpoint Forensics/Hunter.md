@@ -218,9 +218,29 @@ WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall
 
 ***22. How many prefetch files were discovered on the system?***
 
+![image](https://github.com/user-attachments/assets/bc075769-a374-4c09-9d1b-0da964eaeb1b)
+
+pecmd -d ".\prefetch\Prefetch\"
+
+![image](https://github.com/user-attachments/assets/d076fc8e-4a40-4850-9a44-6b032bd70bb7)
+
+174
+
 ***23. How many times was the file shredder application executed?***
 
+5
+
+pecmd -f .\prefetch\BCWIPE.EXE-36F3F2DF.pf
+
+![image](https://github.com/user-attachments/assets/019cc5e7-8fa6-49b8-b3c9-355d0da734f4)
+
 ***24. Using prefetch, determine when was the last time ZENMAP.EXE-56B17C4C.pf was executed?***
+
+ pecmd -f .\prefetch\ZENMAP.EXE-56B17C4C.pf
+
+ ![image](https://github.com/user-attachments/assets/2ba68949-2389-4745-9537-049b36bf41ed)
+
+ 06/21/2016 12:08:13 PM
 
 ***25. A JAR file for an offensive traffic manipulation tool was executed. What is the absolute path of the file?***
 
