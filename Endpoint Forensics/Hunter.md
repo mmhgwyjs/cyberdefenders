@@ -208,6 +208,14 @@ Ryan_VanAntwerp_thesis.pdf
 
 ***21. One of the installed applications is a file shredder. What is the name of the application? (two words space separated)***
 
+Jetico BCWipe
+
+![image](https://github.com/user-attachments/assets/90bc7798-f954-4a05-8380-08969c95884e)
+
+![image](https://github.com/user-attachments/assets/e5b7d63d-66b4-459f-aae9-c87e959f2813)
+
+WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+
 ***22. How many prefetch files were discovered on the system?***
 
 ***23. How many times was the file shredder application executed?***
