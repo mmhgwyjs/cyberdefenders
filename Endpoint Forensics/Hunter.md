@@ -244,9 +244,28 @@ pecmd -f .\prefetch\BCWIPE.EXE-36F3F2DF.pf
 
 ***25. A JAR file for an offensive traffic manipulation tool was executed. What is the absolute path of the file?***
 
+C:\Users\Hunter\Downloads\Burpsuite_free_v1.7.03.jar
+
+![image](https://github.com/user-attachments/assets/e30fc1ff-41dd-4cab-9007-877fc389dc6f)
+
 ***26. The suspect employee tried to exfiltrate data by sending it as an email attachment. What is the name of the suspected attachment?***
 
+pictures.7z
+
+![image](https://github.com/user-attachments/assets/a5680796-0290-4f74-b9a7-d95ae5fb2eba)
+
 ***27. Shellbags shows that the employee created a folder to include all the data he will exfiltrate. What is the full path of that folder?***
+
+![image](https://github.com/user-attachments/assets/ae2d23d7-0557-4365-9218-de650b7f0442)
+
+I got no results at first, but it just need to hold shift while opening dirty hive
+
+![image](https://github.com/user-attachments/assets/a8690540-ec15-41d1-8449-ebd7cb048664)
+
+
+C:\Users\Hunter\Pictures\Exfil
+
+![image](https://github.com/user-attachments/assets/f98c6714-9c33-4678-9043-f8cf0fb63013)
 
 ***28. The user deleted two JPG files from the system and moved them to $Recycle-Bin. What is the file name that has the resolution of 1920x1200?***
 
