@@ -269,6 +269,23 @@ C:\Users\Hunter\Pictures\Exfil
 
 ***28. The user deleted two JPG files from the system and moved them to $Recycle-Bin. What is the file name that has the resolution of 1920x1200?***
 
+![image](https://github.com/user-attachments/assets/6c3d5c9d-1f20-4b12-8d06-3e70c514e849)
+
+![image](https://github.com/user-attachments/assets/482f1f7a-7e5f-43e3-a782-9db5842c393c)
+
+![image](https://github.com/user-attachments/assets/f9f187a9-6b48-4a36-ad1f-367220a19a12)
+
+9f836c5093d21509e634bbbf7b8ea0529a61e003232355e1c918544b237161ef
+
+![image](https://github.com/user-attachments/assets/566eadd7-36d1-42a1-a505-8f32f7e25924)
+
+
+
+![image](https://github.com/user-attachments/assets/7824db6a-6e35-4b65-800c-28385486a618)
+
+![image](https://github.com/user-attachments/assets/b11abadd-4a8a-44d5-a1f6-dd9d725aecdb)
+ws_Small_cute_kitty_1920x1200.jpg
+
 ***29. Provide the name of the directory where information about jump lists items (created automatically by the system) is stored?***
 
 ***30. Using JUMP LIST analysis, provide the full path of the application with the AppID of "aa28770954eaeaaa" used to bypass network security monitoring controls.***
