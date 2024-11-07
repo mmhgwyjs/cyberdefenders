@@ -288,4 +288,19 @@ ws_Small_cute_kitty_1920x1200.jpg
 
 ***29. Provide the name of the directory where information about jump lists items (created automatically by the system) is stored?***
 
+from Windows Forensic Analysis POSTER SANS_DFPS_FOR500
+![image](https://github.com/user-attachments/assets/5929d323-5509-4295-ae59-c6be25016d2d)
+
+AutomaticDestinations
+
+![image](https://github.com/user-attachments/assets/61143709-2946-4d94-9654-fd18397904b5)
+
 ***30. Using JUMP LIST analysis, provide the full path of the application with the AppID of "aa28770954eaeaaa" used to bypass network security monitoring controls.***
+
+![image](https://github.com/user-attachments/assets/0d0cff8f-340d-409d-bd4f-19a19c99a9b0)
+export files
+
+C:\Users\Hunter\Desktop\Tor Browser\Browser\firefox.exe
+
+![image](https://github.com/user-attachments/assets/e518ce15-3ce7-4d80-adf2-bacf0296165d)
+
