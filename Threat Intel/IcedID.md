@@ -1,10 +1,8 @@
-# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer//">Red Stealer</a>
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/icedid/">IcedID</a>
 
 **Platform:** CyberDefenders
 
-**Scenario:** You are part of the Threat Intelligence team in the SOC (Security Operations Center). An executable file has been discovered on a colleague's computer, and it's suspected to be linked to a Command and Control (C2) server, indicating a potential malware infection.
-
-Your task is to investigate this executable by analyzing its hash. The goal is to gather and analyze data that is beneficial to other SOC members, including the Incident Response team, in order to efficiently respond to this suspicious behavior.
+**Scenario:** A cyber threat group was identified for initiating widespread phishing campaigns to distribute further malicious payloads. The most frequently encountered payloads were IcedID. You have been given a hash of an IcedID sample for the purpose of analyzing and monitoring the activities of this advanced persistent threat (APT) group.
 
 **Category:** Threat Intel
 
@@ -22,10 +20,16 @@ Your task is to investigate this executable by analyzing its hash. The goal is t
 
 File Hash (SHA-256): 191eda0c539d284b29efe556abb05cd75a9077a0
 
+![image](https://github.com/user-attachments/assets/b9726c5b-5453-43df-a164-6515ffb336c8)
+
+
 ## **Questions and Answers**
 
 ***Q1: Categorizing malware allows for a quicker and easier understanding of the malware, aiding in understanding its distinct behaviors and attack vectors. What's the identified malware's category?***  
-**Answer: `trojan`**
+**Answer: `document-1982481273.xlsm`**
+
+![image](https://github.com/user-attachments/assets/2a13ab9f-76f1-42a2-a9dd-7abed02b30a6)
+
 
 ***Q2: What is the name of the file associated with the given hash?***  
 **Answer: `doc*****-**********.****`**
