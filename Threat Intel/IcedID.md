@@ -18,7 +18,7 @@
 
 ## **Preparations**
 
-File Hash (SHA-256): 191eda0c539d284b29efe556abb05cd75a9077a0
+File Hash (SHA-1): 191eda0c539d284b29efe556abb05cd75a9077a0
 
 ![image](https://github.com/user-attachments/assets/b9726c5b-5453-43df-a164-6515ffb336c8)
 
@@ -32,7 +32,11 @@ File Hash (SHA-256): 191eda0c539d284b29efe556abb05cd75a9077a0
 
 
 ***Q2: What is the name of the file associated with the given hash?***  
-**Answer: `doc*****-**********.****`**
+**Answer: `3003.gif`**
+
+![image](https://github.com/user-attachments/assets/109a2f81-df13-436d-b181-8088073989fe)
+
+https://www.trendmicro.com/en_us/research/21/d/a-spike-in-bazarcall-and-icedid-activity.html
 
 ***Q3: Can you identify the filename of the gif file that was deployed?***  
 **Answer: `****.***`**
