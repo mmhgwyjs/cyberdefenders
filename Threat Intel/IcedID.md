@@ -25,32 +25,30 @@ File Hash (SHA-1): 191eda0c539d284b29efe556abb05cd75a9077a0
 
 ## **Questions and Answers**
 
-***Q1: Categorizing malware allows for a quicker and easier understanding of the malware, aiding in understanding its distinct behaviors and attack vectors. What's the identified malware's category?***  
+***Q1: What is the name of the file associated with the given hash?***  
 **Answer: `document-1982481273.xlsm`**
 
 ![image](https://github.com/user-attachments/assets/2a13ab9f-76f1-42a2-a9dd-7abed02b30a6)
 
-
-***Q2: What is the name of the file associated with the given hash?***  
+***Q2: Can you identify the filename of the gif file that was deployed?*** 
 **Answer: `3003.gif`**
 
 ![image](https://github.com/user-attachments/assets/109a2f81-df13-436d-b181-8088073989fe)
 
 https://www.trendmicro.com/en_us/research/21/d/a-spike-in-bazarcall-and-icedid-activity.html
 
-***Q3: Can you identify the filename of the gif file that was deployed?***  
-**Answer: `****.***`**
+***Q3: How many domains does the malware look to download the additional payload file in Q2?***  
+**Answer: `5`**
 
-***Q4: How many domains does the malware look to download the additional payload file in Q2?***  
-**Answer: `*`**
+![image](https://github.com/user-attachments/assets/3a79bd44-02e3-46a8-a806-bf6847f5418b)
 
-***Q5: What is the MD5 hash of the executable in Q2 downloaded from metaflip.io?***  
+***Q4: What is the MD5 hash of the executable in Q2 downloaded from metaflip.io?***  
 **Answer: `********************************`**
 
-***Q6: From the domains mentioned in Q3, a DNS registrar was predominantly used by the threat actor to host their harmful content, enabling the malware's functionality. Can you specify the Registrar INC?***  
+***Q5: From the domains mentioned in Q3, a DNS registrar was predominantly used by the threat actor to host their harmful content, enabling the malware's functionality. Can you specify the Registrar INC?***  
 **Answer: `*********`**
 
-***Q7: Could you specify the threat actor linked to the sample provided?***  
+***Q6: Could you specify the threat actor linked to the sample provided?***  
 **Answer: `G*** *****`**
 
 ***Q8: In the Execution phase, what function does the malware employ to fetch extra payloads onto the system?***  
