@@ -43,7 +43,24 @@ https://www.trendmicro.com/en_us/research/21/d/a-spike-in-bazarcall-and-icedid-a
 ![image](https://github.com/user-attachments/assets/3a79bd44-02e3-46a8-a806-bf6847f5418b)
 
 ***Q4: What is the MD5 hash of the executable in Q2 downloaded from metaflip.io?***  
-**Answer: `********************************`**
+**Answer: `964a0015332ec2cc13ab12b8d85f29ff`**
+
+google dorking
+
+site: https://twitter.com "3003.gif"
+
+![image](https://github.com/user-attachments/assets/595a0935-cf3e-49f0-96f3-8714c788df16)
+
+![image](https://github.com/user-attachments/assets/05ff3486-3702-4bd2-b688-ca191372e949)
+
+https://app.any.run/tasks/fe428f01-7d47-4123-9c65-d86f7fcd281a
+
+https://tria.ge/210330-gbdr6k9jxx
+
+![image](https://github.com/user-attachments/assets/2afbf996-71fa-4f44-94d8-7b803180a124)
+
+![image](https://github.com/user-attachments/assets/bebe5a4e-0dea-4c42-9230-cfffd3ffdfb9)
+
 
 ***Q5: From the domains mentioned in Q3, a DNS registrar was predominantly used by the threat actor to host their harmful content, enabling the malware's functionality. Can you specify the Registrar INC?***  
 **Answer: `*********`**
