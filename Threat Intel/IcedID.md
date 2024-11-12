@@ -63,7 +63,10 @@ https://tria.ge/210330-gbdr6k9jxx
 
 
 ***Q5: From the domains mentioned in Q3, a DNS registrar was predominantly used by the threat actor to host their harmful content, enabling the malware's functionality. Can you specify the Registrar INC?***  
-**Answer: `*********`**
+**Answer: NAMECHEAP
+
+![image](https://github.com/user-attachments/assets/8cdd4aad-41bc-4ccf-a12d-b5e14e04dcba)
+
 
 ***Q6: Could you specify the threat actor linked to the sample provided?***  
 **Answer: `G*** *****`**
