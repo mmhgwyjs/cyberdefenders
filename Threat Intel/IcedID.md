@@ -67,9 +67,16 @@ https://tria.ge/210330-gbdr6k9jxx
 
 ![image](https://github.com/user-attachments/assets/8cdd4aad-41bc-4ccf-a12d-b5e14e04dcba)
 
+![image](https://github.com/user-attachments/assets/a3c86625-bf2b-484a-9fba-da5da9543a2e)
 
 ***Q6: Could you specify the threat actor linked to the sample provided?***  
-**Answer: `G*** *****`**
+**Answer: `GOLD CABIN`**
+
+![image](https://github.com/user-attachments/assets/3f1a567b-d5a0-4105-83b2-2001b25f89ab)
+https://www.trendmicro.com/en_us/research/21/d/a-spike-in-bazarcall-and-icedid-activity.html
+
+![image](https://github.com/user-attachments/assets/d0ca687b-e797-45d5-8c68-5e118906e2d5)
+https://attack.mitre.org/groups/G0127/
 
 ***Q8: In the Execution phase, what function does the malware employ to fetch extra payloads onto the system?***  
 **Answer: `*`**
