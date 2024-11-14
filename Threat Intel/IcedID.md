@@ -79,4 +79,10 @@ https://www.trendmicro.com/en_us/research/21/d/a-spike-in-bazarcall-and-icedid-a
 https://attack.mitre.org/groups/G0127/
 
 ***Q8: In the Execution phase, what function does the malware employ to fetch extra payloads onto the system?***  
-**Answer: `*`**
+**Answer: `URLDownloadToFileA`**
+
+![image](https://github.com/user-attachments/assets/4f8f8f22-642c-4b4c-b6ec-5bb59ef5a668)
+https://tria.ge/241110-ncqlyavnct
+
+![image](https://github.com/user-attachments/assets/df23d07e-2d3f-4707-951e-3e4c80ec000b)
+
