@@ -30,8 +30,12 @@ Statistics > Conversations > IPv4
 ![image](https://github.com/user-attachments/assets/76f859e1-2ab6-4afc-bcbe-73eb9c1803e0)
 
 ***2. Knowing the attacker's user-agent assists in creating robust filtering rules. What's the attacker's user agent?***  
-**Answer: `*******/*.* (***; ***** ***_**; **:***.*) *****/******** *******/***.*`**
+**Answer: `Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0`**
 
+![image](https://github.com/user-attachments/assets/e659665f-74dd-438f-910f-3f59800aefd9)
+
+Follow TCP stream 
+                                         
 ***3. We need to identify if there were potential vulnerabilities exploited. What's the name of the malicious web shell uploaded?***  
 **Answer: `*****.***.***`**
 
