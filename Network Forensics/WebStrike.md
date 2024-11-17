@@ -37,7 +37,11 @@ Statistics > Conversations > IPv4
 Follow TCP stream 
                                          
 ***3. We need to identify if there were potential vulnerabilities exploited. What's the name of the malicious web shell uploaded?***  
-**Answer: `*****.***.***`**
+**Answer: `image.jpg.php`**
+
+![image](https://github.com/user-attachments/assets/9348fff3-50a8-4363-b410-9b1e58bb569f)
+
+![image](https://github.com/user-attachments/assets/01b8ec5b-0497-47e4-9c97-21d77d73bcc7)
 
 ***4. Knowing the directory where files uploaded are stored is important for reinforcing defenses against unauthorized access. Which directory is used by the website to store the uploaded files?***  
 **Answer: `/*******/*******/`**
