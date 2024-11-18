@@ -44,7 +44,9 @@ Follow TCP stream
 ![image](https://github.com/user-attachments/assets/01b8ec5b-0497-47e4-9c97-21d77d73bcc7)
 
 ***4. Knowing the directory where files uploaded are stored is important for reinforcing defenses against unauthorized access. Which directory is used by the website to store the uploaded files?***  
-**Answer: `/*******/*******/`**
+**Answer: `reviews/uploads/`**
+
+using the answer above
 
 ***5. Identifying the port utilized by the web shell helps improve firewall configurations for blocking unauthorized outbound traffic. What port was used by the malicious web shell?***  
 **Answer: `****`**
