@@ -54,4 +54,7 @@ using the answer above
 ![image](https://github.com/user-attachments/assets/c4c7f91f-f6c6-48d3-b96a-311b7c1a6cae)
 
 ***6. Understanding the value of compromised data assists in prioritizing incident response actions. What file was the attacker trying to exfiltrate?***  
-**Answer: `******`**
+**Answer: `passwd`**
+
+![image](https://github.com/user-attachments/assets/3af88332-0f3a-4ba5-9c02-5c2588c2b5b8)
+
