@@ -16,12 +16,18 @@
 
 ## **Preparations**
 
+![image](https://github.com/user-attachments/assets/5dfa04b5-38e3-4875-9ac1-337f7dcc97ab)
 
-
+```
+7z x 146-poisonedcredentials.zip 
+```
 ## **Questions and Answers**
 
 ***1. In the context of the incident described in the scenario, the attacker initiated their actions by taking advantage of benign network traffic from legitimate machines. Can you identify the specific mistyped query made by the machine with the IP address 192.168.232.162?***  
-**Answer:** `**********`
+**Answer:** `FILESHAARE`
+
+![image](https://github.com/user-attachments/assets/59bf2a9a-ba0c-40f3-9146-cabb7d31290a)
+ip.src == 192.168.232.162
 
 ***2. We are investigating a network security incident. For a thorough investigation, we need to determine the IP address of the rogue machine. What is the IP address of the machine acting as the rogue entity?***  
 **Answer:** `***.***.***.***`
