@@ -21,6 +21,9 @@
 ```
 7z x 146-poisonedcredentials.zip 
 ```
+
+https://attack.mitre.org/techniques/T1557/001/
+
 ## **Questions and Answers**
 
 ***1. In the context of the incident described in the scenario, the attacker initiated their actions by taking advantage of benign network traffic from legitimate machines. Can you identify the specific mistyped query made by the machine with the IP address 192.168.232.162?***  
@@ -30,7 +33,11 @@
 ip.src == 192.168.232.162
 
 ***2. We are investigating a network security incident. For a thorough investigation, we need to determine the IP address of the rogue machine. What is the IP address of the machine acting as the rogue entity?***  
-**Answer:** `***.***.***.***`
+**Answer:** `192.168.232.215`
+
+![image](https://github.com/user-attachments/assets/be6dbf1b-1ed5-4e66-99db-aac7c3f7428f)
+
+![image](https://github.com/user-attachments/assets/03549929-1a27-4adb-b8f3-2db1e297a88f)
 
 ***3. During our investigation, it's crucial to identify all affected machines. What is the IP address of the second machine that received poisoned responses from the rogue machine?***  
 **Answer:** `***.***.***.***`
