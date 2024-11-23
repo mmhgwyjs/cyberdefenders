@@ -40,7 +40,7 @@ ip.src == 192.168.232.162
 ![image](https://github.com/user-attachments/assets/03549929-1a27-4adb-b8f3-2db1e297a88f)
 
 ***3. During our investigation, it's crucial to identify all affected machines. What is the IP address of the second machine that received poisoned responses from the rogue machine?***  
-**Answer:** `***.***.***.***`
+**Answer:** `192.168.232.176`
 
 ***4. We suspect that user accounts may have been compromised. To assess this, we must determine the username associated with the compromised account. What is the username of the account that the attacker compromised?***  
 **Answer:** `*********`
