@@ -48,4 +48,7 @@ ip.src == 192.168.232.162
 ![image](https://github.com/user-attachments/assets/2659c439-fd8a-4116-ba3d-e1ad9b862cec)
 
 ***5. As part of our investigation, we aim to understand the extent of the attacker's activities. What is the hostname of the machine that the attacker accessed via SMB?***  
-**Answer:** `************`
+**Answer:** ACCOUNTINGPC
+
+![image](https://github.com/user-attachments/assets/40eaf268-97f1-4e0d-89a8-74b8935223bd)
+
