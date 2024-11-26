@@ -23,7 +23,11 @@ MD5 Hash: 12c1842c3ccafe7408c23ebf292ee3d9
 ## **Questions and Answers**
 
 ***Q1: To better categorize and comprehend the behavior and intent of this potential malware, it's essential to identify its family. What is the malware family name for the malicious executable found within the PPT?***  
-**Answer: `363`**
+**Answer: `stealc`**
+
+![image](https://github.com/user-attachments/assets/df87c71c-edb5-456b-b5b8-fef35f219b96)
+
+https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f15530a19bb/d55e2294-5377-4a45-b393-f5a8b20f7d44
 
 ***Q2: Determining the creation time of the malware can provide insights into its origin. When was the malware creation time?***  
 **Answer: `****-**-** **:**:** ***  
