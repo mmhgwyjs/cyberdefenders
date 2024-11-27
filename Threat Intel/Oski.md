@@ -30,7 +30,10 @@ MD5 Hash: 12c1842c3ccafe7408c23ebf292ee3d9
 https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f15530a19bb/d55e2294-5377-4a45-b393-f5a8b20f7d44
 
 ***Q2: Determining the creation time of the malware can provide insights into its origin. When was the malware creation time?***  
-**Answer: `****-**-** **:**:** ***  
+**Answer: `2022-09-28 17:40:46 UTC`
+
+![image](https://github.com/user-attachments/assets/9284008f-54c3-4607-8f95-a1633378b152)
+
 
 ***Q3: Identifying the command and control (C2C) server that the malware communicates with can help trace back to the attacker. Which C2C server does the malware in the PPT file communicate with?***  
 **Answer: `****://***.**.**.***/****************.***`  
