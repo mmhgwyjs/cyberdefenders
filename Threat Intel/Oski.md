@@ -36,7 +36,9 @@ https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f155
 
 
 ***Q3: Identifying the command and control (C2C) server that the malware communicates with can help trace back to the attacker. Which C2C server does the malware in the PPT file communicate with?***  
-**Answer: `****://***.**.**.***/****************.***`  
+**Answer: `http://171.22.28.221/5c06c05b7b34e8e6.php`  
+
+![image](https://github.com/user-attachments/assets/ea1c553a-fe35-4a29-90cb-8551fefd358a)
 
 ***Q4: Identifying the initial actions of the malware post-infection can provide insights into its primary objectives. What is the first library that the malware requests post-infection?***  
 **Answer: `*******.***`  
