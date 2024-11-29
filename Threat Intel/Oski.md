@@ -41,7 +41,10 @@ https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f155
 ![image](https://github.com/user-attachments/assets/ea1c553a-fe35-4a29-90cb-8551fefd358a)
 
 ***Q4: Identifying the initial actions of the malware post-infection can provide insights into its primary objectives. What is the first library that the malware requests post-infection?***  
-**Answer: `*******.***`  
+**Answer: `sqlite3.dll`
+
+![image](https://github.com/user-attachments/assets/34596f06-1e72-439d-9d44-5d61f8087195)
+
 
 ***Q5: Upon examining the malware, it appears to utilize the RC4 key for decrypting a base64 string. What is the specific RC4 key used by this malware?***  
 **Answer: `****************************`  
