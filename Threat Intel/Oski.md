@@ -47,7 +47,11 @@ https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f155
 
 
 ***Q5: Upon examining the malware, it appears to utilize the RC4 key for decrypting a base64 string. What is the specific RC4 key used by this malware?***  
-**Answer: `****************************`  
+**Answer: `5329514621441247975720749009`
+
+![image](https://github.com/user-attachments/assets/705d8e89-3daf-45a1-b07a-1ac7a4770d02)
+
+`https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f15530a19bb/d55e2294-5377-4a45-b393-f5a8b20f7d44`
 
 ***Q6: Identifying an adversary's techniques can aid in understanding their methods and devising countermeasures. Which MITRE ATT&CK technique are they employing to steal a user's password?***  
 **Answer: `*****`  
