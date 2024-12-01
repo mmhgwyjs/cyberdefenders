@@ -54,7 +54,11 @@ https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f155
 `https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f15530a19bb/d55e2294-5377-4a45-b393-f5a8b20f7d44`
 
 ***Q6: Identifying an adversary's techniques can aid in understanding their methods and devising countermeasures. Which MITRE ATT&CK technique are they employing to steal a user's password?***  
-**Answer: `*****`  
+**Answer: T1555
+
+![image](https://github.com/user-attachments/assets/2d7791e0-6ac4-4b90-bf13-567ece64c96b)
+
+https://app.any.run/tasks/d55e2294-5377-4a45-b393-f5a8b20f7d44
 
 ***Q7: Malwares may delete files left behind by the actions of their intrusion activity. Which directory or path does the malware target for deletion?***  
 **Answer: `*:\***********`  
