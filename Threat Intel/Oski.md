@@ -61,8 +61,9 @@ https://any.run/report/a040a0af8697e30506218103074c7d6ea77a84ba3ac1ee5efae20f155
 https://app.any.run/tasks/d55e2294-5377-4a45-b393-f5a8b20f7d44
 
 ***Q7: Malwares may delete files left behind by the actions of their intrusion activity. Which directory or path does the malware target for deletion?***  
-**Answer: `*:\***********`  
-`*:\***********`**
+**Answer: C:\ProgramData
+
+![image](https://github.com/user-attachments/assets/7141a7af-0088-43c5-958e-4e41cacbcabc)
 
 ***Q8: Understanding the malware's behavior post-data exfiltration can give insights into its evasion techniques. After successfully exfiltrating the user's data, how many seconds does it take for the malware to self-delete?***  
 **Answer: `326`**
