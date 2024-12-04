@@ -66,4 +66,8 @@ https://app.any.run/tasks/d55e2294-5377-4a45-b393-f5a8b20f7d44
 ![image](https://github.com/user-attachments/assets/7141a7af-0088-43c5-958e-4e41cacbcabc)
 
 ***Q8: Understanding the malware's behavior post-data exfiltration can give insights into its evasion techniques. After successfully exfiltrating the user's data, how many seconds does it take for the malware to self-delete?***  
-**Answer: `326`**
+**Answer: `5`**
+
+![image](https://github.com/user-attachments/assets/19cc0bd6-e0d5-4a19-8299-052143189468)
+
+https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-1/
