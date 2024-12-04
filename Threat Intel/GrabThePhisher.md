@@ -22,11 +22,11 @@ MD5 Hash: 12c1842c3ccafe7408c23ebf292ee3d9
 
 ## **Questions and Answers**
 
-***Q1: To better categorize and comprehend the behavior and intent of this potential malware, it's essential to identify its family. What is the malware family name for the malicious executable found within the PPT?***  
-**Answer: `stealc`**
- 
 ***Q1:What wallet is used for asking the seed phrase?***
- 
+**Answer: `metamask`**
+
+![image](https://github.com/user-attachments/assets/47be8401-4ba7-4c1f-82df-22240f3ec34e)
+
 ***Q2 What is the file name that has the code for the phishing kit?***
 
 ***Q3: In which language was the kit written?***
