@@ -29,6 +29,11 @@ MD5 Hash: 12c1842c3ccafe7408c23ebf292ee3d9
 
 ***Q2 What is the file name that has the code for the phishing kit?***
 
+**Answer: `metamask.php`**
+
+![image](https://github.com/user-attachments/assets/b0735c66-95fb-4774-a73c-ceaef92d82a2)
+
+
 ***Q3: In which language was the kit written?***
 
 ***Q4: What service does the kit use to retrieve the victim's machine information?***
