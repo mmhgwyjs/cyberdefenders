@@ -36,6 +36,8 @@ MD5 Hash: 12c1842c3ccafe7408c23ebf292ee3d9
 
 ***Q3: In which language was the kit written?***
 
+**Answer: `php`**
+
 ***Q4: What service does the kit use to retrieve the victim's machine information?***
 
 ***Q5: How many seed phrases were already collected?***
