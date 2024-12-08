@@ -48,6 +48,11 @@ https://github.com/hostbrook/sypex-geo
 
 ***Q5: How many seed phrases were already collected?***
 
+3
+
+![image](https://github.com/user-attachments/assets/be692910-397a-4d79-8450-0254363335dd)
+
+
 ***Q6: Write down the seed phrase of the most recent phishing incident?***
 
 ***Q7: Which medium had been used for credential dumping?***
