@@ -55,6 +55,8 @@ https://github.com/hostbrook/sypex-geo
 
 ***Q6: Write down the seed phrase of the most recent phishing incident?***
 
+`father also recycle embody balance concert mechanic believe owner pair muffin hockey`
+
 ***Q7: Which medium had been used for credential dumping?***
 
 ***Q8: What is the token for the channel?***
