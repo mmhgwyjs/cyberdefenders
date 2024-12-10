@@ -58,6 +58,7 @@ https://github.com/hostbrook/sypex-geo
 `father also recycle embody balance concert mechanic believe owner pair muffin hockey`
 
 ***Q7: Which medium had been used for credential dumping?***
+telegram
 
 ***Q8: What is the token for the channel?***
 
