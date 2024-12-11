@@ -61,6 +61,7 @@ https://github.com/hostbrook/sypex-geo
 telegram
 
 ***Q8: What is the token for the channel?***
+5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10
 
 ***Q9: What is the chat ID of the phisher's channel?***
 
