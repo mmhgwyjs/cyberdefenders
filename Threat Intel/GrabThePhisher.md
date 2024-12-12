@@ -1,4 +1,4 @@
-# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/">GrabThePhisher</a>
+![image](https://github.com/user-attachments/assets/53d21864-74d3-44ea-a8b8-068ebc2a9373)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/">GrabThePhisher</a>
 
 **Platform:** CyberDefenders
 
@@ -64,9 +64,14 @@ telegram
 5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10
 
 ***Q9: What is the chat ID of the phisher's channel?***
+
+![image](https://github.com/user-attachments/assets/0c237840-0eac-4df8-aa8b-68277a0e1180)
+
 5442785564
 
 ***Q10: What are the allies of the phish kit developer?***
+
+
  
 ***Q11: What is the full name of the Phish Actor?***
 
