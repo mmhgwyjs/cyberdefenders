@@ -64,6 +64,7 @@ telegram
 5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10
 
 ***Q9: What is the chat ID of the phisher's channel?***
+5442785564
 
 ***Q10: What are the allies of the phish kit developer?***
  
