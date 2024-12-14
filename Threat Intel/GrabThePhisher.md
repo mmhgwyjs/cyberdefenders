@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/53d21864-74d3-44ea-a8b8-068ebc2a9373)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/">GrabThePhisher</a>
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/">GrabThePhisher</a>
 
 **Platform:** CyberDefenders
 
@@ -71,7 +71,7 @@ telegram
 
 ***Q10: What are the allies of the phish kit developer?***
 
-
+j1j1b1s@m3r0
  
 ***Q11: What is the full name of the Phish Actor?***
 
