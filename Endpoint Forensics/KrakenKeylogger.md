@@ -25,6 +25,15 @@ The helper's demand for payment revealed that he was actually a threat actor. Th
 
 ***1. What is the the web messaging app the employee used to talk to the attacker?***
 
+\Users\OMEN\AppData\Local\Microsoft\Windows\Notifications
+
+![image](https://github.com/user-attachments/assets/64055a1d-a3e2-470f-b86b-38cb65425219)
+
+telegram
+
+![image](https://github.com/user-attachments/assets/85866de4-c737-4544-8035-b49f340e375b)
+
+
 ***2. What is the password for the protected ZIP file sent by the attacker to the employee?***
 
 ***3. What domain did the attacker use to download the second stage of the malware?***
