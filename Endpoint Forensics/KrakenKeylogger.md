@@ -36,6 +36,10 @@ telegram
 
 ***2. What is the password for the protected ZIP file sent by the attacker to the employee?***
 
+@1122d
+
+![image](https://github.com/user-attachments/assets/3edfae11-f421-45b7-aa33-9018fba648fc)
+
 ***3. What domain did the attacker use to download the second stage of the malware?***
 
 ***4. What is the name of the command that the attacker injected using one of the installed LOLAPPS on the machine to achieve persistence?***
