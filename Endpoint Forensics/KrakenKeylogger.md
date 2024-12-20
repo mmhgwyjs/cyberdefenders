@@ -82,6 +82,14 @@ masherofmasters.cyou
 
 ***4. What is the name of the command that the attacker injected using one of the installed LOLAPPS on the machine to achieve persistence?***
 
+jlhgfjhdflghjhuhuh
+
+![image](https://github.com/user-attachments/assets/04777a51-a34c-4585-96d2-f58e56faafc7)
+
+Users/OMEN/AppData/Roaming/Greenshot/Greenshot.ini
+
+https://lolapps-project.github.io/lolapps/Desktop/greenshot/
+
 ***5. What is the complete path of the malicious file that the attacker used to achieve persistence?***
 
 ***6. What is the name of the application the attacker utilized for data exfiltration?***
