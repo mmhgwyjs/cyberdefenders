@@ -92,6 +92,8 @@ https://lolapps-project.github.io/lolapps/Desktop/greenshot/
 
 ***5. What is the complete path of the malicious file that the attacker used to achieve persistence?***
 
+C:\Users\OMEN\AppData\Local\Temp\templet.lnk
+
 ***6. What is the name of the application the attacker utilized for data exfiltration?***
 
 ***7. What is the IP address of the attacker?***
