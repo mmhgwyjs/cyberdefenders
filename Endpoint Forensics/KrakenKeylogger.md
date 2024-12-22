@@ -111,3 +111,10 @@ C:\Users\flrvm2\Desktop\Tools\Forensic\SrumECmd.lnk -f C:\Users\flrvm2\Documents
 ![image](https://github.com/user-attachments/assets/5e92c965-4342-4137-b008-f2cea32f2468)
 
 ***7. What is the IP address of the attacker?***
+
+77.232.122.31
+
+![image](https://github.com/user-attachments/assets/6a2f2274-e976-45ef-9c9d-b42101969ee5)
+
+\Users\OMEN\AppData\Roaming\Anydesk
+
