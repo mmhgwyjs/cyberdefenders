@@ -96,4 +96,18 @@ C:\Users\OMEN\AppData\Local\Temp\templet.lnk
 
 ***6. What is the name of the application the attacker utilized for data exfiltration?***
 
+anydesk
+
+C:\Windows\System32\sru\SRUDB.dat
+
+![image](https://github.com/user-attachments/assets/ac7ca00d-a42e-4eac-af1d-7d5fa80dc3f8)
+
+C:\Users\flrvm2\Desktop\Tools\Forensic\SrumECmd.lnk -f C:\Users\flrvm2\Documents\CD\119-KrakenKeyLogger\SRUDB.dat --csv C:\Users\flrvm2\Documents\CD\119-KrakenKeyLogger
+
+![image](https://github.com/user-attachments/assets/d114f3cf-5b1b-46ad-999b-cde203640422)
+
+![image](https://github.com/user-attachments/assets/c6f0edb3-98c8-4c28-972c-72b587e6b8cb)
+
+![image](https://github.com/user-attachments/assets/5e92c965-4342-4137-b008-f2cea32f2468)
+
 ***7. What is the IP address of the attacker?***
