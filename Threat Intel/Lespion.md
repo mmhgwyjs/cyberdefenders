@@ -39,3 +39,12 @@ https://github.com/EMarseille99/Project-Build---Custom-Login-Page/blob/master/Lo
 ![image](https://github.com/user-attachments/assets/85b58440-308d-44c2-9dfd-ae46661230c5)
 
 ![image](https://github.com/user-attachments/assets/75c1457e-3c59-4d8a-a2eb-bee98caa74d3)
+
+***Q3: File -> Github.txt: What cryptocurrency mining tool did the insider use??***
+**Answer: `XMRig`**
+
+https://github.com/EMarseille99/xmrig
+
+![image](https://github.com/user-attachments/assets/95b97222-434a-402d-b69b-8714341e20f4)
+
+
