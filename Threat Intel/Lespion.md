@@ -29,7 +29,13 @@ Investigate the incident, find the insider, and uncover the attack actions.
 ***Q1: File -> Github.txt: What is the API key the insider added to his GitHub repositories?***
 **Answer: `aJFRaLHjMXvYZgLPwiJkroYLGRkNBW`**
 
+https://github.com/EMarseille99/Project-Build---Custom-Login-Page/blob/master/Login%20Page.js
+
 ![image](https://github.com/user-attachments/assets/ddd604b6-98ce-4a44-896d-dec29cc9849c)
 
 ***Q2: File -> Github.txt: What is the plaintext password the insider added to his GitHub repositories?***
-**Answer: ``**
+**Answer: `PicassoBaguette99`**
+
+![image](https://github.com/user-attachments/assets/85b58440-308d-44c2-9dfd-ae46661230c5)
+
+![image](https://github.com/user-attachments/assets/75c1457e-3c59-4d8a-a2eb-bee98caa74d3)
