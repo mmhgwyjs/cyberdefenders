@@ -48,3 +48,9 @@ https://github.com/EMarseille99/xmrig
 ![image](https://github.com/user-attachments/assets/95b97222-434a-402d-b69b-8714341e20f4)
 
 
+***Q5: What gaming website the insider had an account on?***
+Answer: steam
+
+![image](https://github.com/user-attachments/assets/6a14660a-c994-40ae-93a8-a0e509b23dcd)
+
+https://steamcommunity.com/id/emarseille99/
