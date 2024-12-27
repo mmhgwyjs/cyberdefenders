@@ -49,8 +49,12 @@ https://github.com/EMarseille99/xmrig
 
 
 ***Q5: What gaming website the insider had an account on?***
-Answer: steam
+**Answer: steam**
 
 ![image](https://github.com/user-attachments/assets/6a14660a-c994-40ae-93a8-a0e509b23dcd)
 
 https://steamcommunity.com/id/emarseille99/
+
+***Q6: What is the link to the insider Instagram profile?***
+
+Answer: https://www.instagram.com/EMarseille99/
