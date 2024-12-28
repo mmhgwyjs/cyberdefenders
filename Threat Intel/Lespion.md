@@ -58,3 +58,13 @@ https://steamcommunity.com/id/emarseille99/
 ***Q6: What is the link to the insider Instagram profile?***
 
 Answer: https://www.instagram.com/EMarseille99/
+
+***Q7: Where did the insider go on the holiday? (Country only)***
+
+Answer: Singapore
+
+![image](https://github.com/user-attachments/assets/f8b1ebff-e4b7-431c-8704-15f2cfdcf526)
+
+https://www.instagram.com/emarseille99/p/CAjDd_dlHds/
+
+![image](https://github.com/user-attachments/assets/2667ee6f-dad1-41e1-b39f-033999492c9b)
