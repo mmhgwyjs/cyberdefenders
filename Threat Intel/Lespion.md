@@ -1,4 +1,4 @@
-# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/lespion/">Lespion</a>
+![image](https://github.com/user-attachments/assets/27184c9c-cb02-40c5-83e2-c430e3faf099)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/lespion/">Lespion</a>
 
 **Platform:** CyberDefenders
 
@@ -68,3 +68,14 @@ Answer: Singapore
 https://www.instagram.com/emarseille99/p/CAjDd_dlHds/
 
 ![image](https://github.com/user-attachments/assets/2667ee6f-dad1-41e1-b39f-033999492c9b)
+
+
+***Q8: Where is the insider family live? (City only)***
+
+DUBAI
+
+![image](https://github.com/user-attachments/assets/2692944c-9b08-48a0-bd13-56505d3f32b0)
+
+![image](https://github.com/user-attachments/assets/8500c690-4c43-4482-900b-6c650c50ab3b)
+
+![image](https://github.com/user-attachments/assets/bceb4ebd-113f-4349-ac35-06ba24dbf799)
