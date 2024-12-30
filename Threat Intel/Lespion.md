@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27184c9c-cb02-40c5-83e2-c430e3faf099)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/lespion/">Lespion</a>
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/lespion/">Lespion</a>
 
 **Platform:** CyberDefenders
 
@@ -47,19 +47,18 @@ https://github.com/EMarseille99/xmrig
 
 ![image](https://github.com/user-attachments/assets/95b97222-434a-402d-b69b-8714341e20f4)
 
-
-***Q5: What gaming website the insider had an account on?***
+***Q4: What gaming website the insider had an account on?***
 **Answer: steam**
 
 ![image](https://github.com/user-attachments/assets/6a14660a-c994-40ae-93a8-a0e509b23dcd)
 
 https://steamcommunity.com/id/emarseille99/
 
-***Q6: What is the link to the insider Instagram profile?***
+***Q5: What is the link to the insider Instagram profile?***
 
 Answer: https://www.instagram.com/EMarseille99/
 
-***Q7: Where did the insider go on the holiday? (Country only)***
+***Q6: Where did the insider go on the holiday? (Country only)***
 
 Answer: Singapore
 
@@ -70,7 +69,7 @@ https://www.instagram.com/emarseille99/p/CAjDd_dlHds/
 ![image](https://github.com/user-attachments/assets/2667ee6f-dad1-41e1-b39f-033999492c9b)
 
 
-***Q8: Where is the insider family live? (City only)***
+***Q7: Where is the insider family live? (City only)***
 
 DUBAI
 
@@ -79,3 +78,10 @@ DUBAI
 ![image](https://github.com/user-attachments/assets/8500c690-4c43-4482-900b-6c650c50ab3b)
 
 ![image](https://github.com/user-attachments/assets/bceb4ebd-113f-4349-ac35-06ba24dbf799)
+
+***Q8: File -> office.jpg: You have been provided with a picture of the building in which the company has an office. Which city is the company located in?***
+
+Birmingham
+
+![image](https://github.com/user-attachments/assets/bca1508c-5df3-45fe-90ff-f365877ff3cd)
+
