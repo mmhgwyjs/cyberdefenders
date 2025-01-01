@@ -24,7 +24,9 @@ Your task is to investigate the email using Threat Intel tools. Analyze the emai
 ## **Questions and Answers**
 
 ***Q1: Identifying the sender's IP address with specific SPF and DKIM values helps trace the source of the phishing email. What is the sender's IP address that has an SPF value of softfail and a DKIM value of fail?***  
-**Answer:** `**.***.**.***`
+**Answer:** `18.208.22.104`
+
+![image](https://github.com/user-attachments/assets/b035868b-ce62-4695-ae40-b1c586f0c3b4)
 
 ***Q2: Understanding the return path of the email helps in tracing its origin. What is the return path specified in this email?***  
 **Answer:** `***********.*****@****.***.**`
