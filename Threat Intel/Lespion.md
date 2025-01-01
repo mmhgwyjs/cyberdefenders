@@ -85,3 +85,11 @@ Birmingham
 
 ![image](https://github.com/user-attachments/assets/bca1508c-5df3-45fe-90ff-f365877ff3cd)
 
+***Q9: File -> Webcam.png: With the intel, you have provided, our ground surveillance unit is now overlooking the person of interest suspected address. They saw them leaving their apartment and followed them to the airport. Their plane took off and has landed in another country. Our intelligence team spotted the target with this IP camera. Which state is this camera in?***
+
+indiana
+
+![image](https://github.com/user-attachments/assets/a731c9de-9255-4530-a40a-d7504e2d1849)
+
+![image](https://github.com/user-attachments/assets/54c11daf-5a75-46c4-a7df-8f48929b9d7b)
+
