@@ -29,7 +29,9 @@ Your task is to investigate the email using Threat Intel tools. Analyze the emai
 ![image](https://github.com/user-attachments/assets/b035868b-ce62-4695-ae40-b1c586f0c3b4)
 
 ***Q2: Understanding the return path of the email helps in tracing its origin. What is the return path specified in this email?***  
-**Answer:** `***********.*****@****.***.**`
+**Answer:** `erikajohana.lopez@uptc.edu.co`
+
+![image](https://github.com/user-attachments/assets/d7894352-e464-4e1e-8819-9d2ee7aa938a)
 
 ***Q3: Identifying the source of malware is critical for effective threat mitigation and response. What is the IP address hosting the malicious file associated with malware distribution?***  
 **Answer:** `***.***.***.***`
