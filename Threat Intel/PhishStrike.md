@@ -34,7 +34,11 @@ Your task is to investigate the email using Threat Intel tools. Analyze the emai
 ![image](https://github.com/user-attachments/assets/d7894352-e464-4e1e-8819-9d2ee7aa938a)
 
 ***Q3: Identifying the source of malware is critical for effective threat mitigation and response. What is the IP address hosting the malicious file associated with malware distribution?***  
-**Answer:** `***.***.***.***`
+**Answer:** `107.175.247.199`
+
+![image](https://github.com/user-attachments/assets/49dd087d-d9f8-49e9-b37a-89de61055ed7)
+
+![image](https://github.com/user-attachments/assets/d76a7d05-01dd-4567-8113-3d0d40bc9088)
 
 ***Q4: Identifying malware that exploits system resources for cryptocurrency mining is critical for prioritizing threat mitigation efforts. The malicious URL can deliver several malware types. Which malware family is responsible for cryptocurrency mining?***  
 **Answer:** `*********`
