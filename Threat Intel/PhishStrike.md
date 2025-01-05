@@ -41,7 +41,9 @@ Your task is to investigate the email using Threat Intel tools. Analyze the emai
 ![image](https://github.com/user-attachments/assets/d76a7d05-01dd-4567-8113-3d0d40bc9088)
 
 ***Q4: Identifying malware that exploits system resources for cryptocurrency mining is critical for prioritizing threat mitigation efforts. The malicious URL can deliver several malware types. Which malware family is responsible for cryptocurrency mining?***  
-**Answer:** `*********`
+**Answer:** coinminer
+
+https://bazaar.abuse.ch/sample/ee1e5fcaf442282176717ce59cc1993b6ec84317669ab6fa66633d9b5c8e172d#comments
 
 ***Q5: Identifying the specific URLs malware requests is key to disrupting its communication channels and reducing its impact. Based on the previous analysis of the cryptocurrency malware sample, what does this malware request the URL?***  
 **Answer:** `****://******.******/******/*******/*********.****`
