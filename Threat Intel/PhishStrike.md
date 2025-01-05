@@ -48,6 +48,20 @@ https://bazaar.abuse.ch/sample/ee1e5fcaf442282176717ce59cc1993b6ec84317669ab6fa6
 ***Q5: Identifying the specific URLs malware requests is key to disrupting its communication channels and reducing its impact. Based on the previous analysis of the cryptocurrency malware sample, what does this malware request the URL?***  
 **Answer:** `****://******.******/******/*******/*********.****`
 
+http://ripley.studio/loader/uploads/Hjvnp.png
+
+https://www.joesandbox.com/analysis/730933/0/executive
+
+http://ripley.studio/loader/uploads/Zcpbmqlst.bmp
+
+https://any.run/report/5ca468704e7ccb8e1b37c0f7595c54df4e2f4035345b6e442e8bd4e11c58f791/63ecee5c-854f-4157-a5f2-698f1cbb3b3f
+
+`http://ripley.studio/loader/uploads/Qanjttrbv.jpeg`
+
+![image](https://github.com/user-attachments/assets/f5b4aa6d-3289-4a9f-a9ac-fec376ec719a)
+
+https://www.virustotal.com/gui/file/453fb1c4b3b48361fa8a67dcedf1eaec39449cb5a146a7770c63d1dc0d7562f0/relations
+
 ***Q6: Understanding the registry entries added to the auto-run key by malware is crucial for identifying its persistence mechanisms. Based on the BitRAT malware sample analysis, what is the executable's name in the first value added to the registry auto-run key?***  
 **Answer:** `******.***`
 
