@@ -45,6 +45,10 @@ Your task is to investigate the email using Threat Intel tools. Analyze the emai
 
 https://bazaar.abuse.ch/sample/ee1e5fcaf442282176717ce59cc1993b6ec84317669ab6fa66633d9b5c8e172d#comments
 
+![image](https://github.com/user-attachments/assets/f3108c4f-b619-4368-ac31-b95d2d003c26)
+
+https://bazaar.abuse.ch/sample/453fb1c4b3b48361fa8a67dcedf1eaec39449cb5a146a7770c63d1dc0d7562f0/
+
 ***Q5: Identifying the specific URLs malware requests is key to disrupting its communication channels and reducing its impact. Based on the previous analysis of the cryptocurrency malware sample, what does this malware request the URL?***  
 **Answer:** `****://******.******/******/*******/*********.****`
 
@@ -64,6 +68,14 @@ https://www.virustotal.com/gui/file/453fb1c4b3b48361fa8a67dcedf1eaec39449cb5a146
 
 ***Q6: Understanding the registry entries added to the auto-run key by malware is crucial for identifying its persistence mechanisms. Based on the BitRAT malware sample analysis, what is the executable's name in the first value added to the registry auto-run key?***  
 **Answer:** `******.***`
+
+Jzwvix.exe
+
+![image](https://github.com/user-attachments/assets/ef48d270-d8a6-4aa9-87a5-c60eeef7b462)
+
+![image](https://github.com/user-attachments/assets/22c11ba9-02b9-4d1d-a952-1b3f286078e3)
+
+![image](https://github.com/user-attachments/assets/ba713486-1a9e-4563-836d-e1fa9b1bee16)
 
 ***Q7: Identifying the SHA-256 hash of files downloaded from a malicious URL is essential for tracking and analyzing malware activity. Based on the BitRAT analysis, what is the SHA-256 hash of the file previously downloaded and added to the autorun keys?***  
 **Answer:** `****************************************************************`
