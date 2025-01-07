@@ -78,7 +78,11 @@ Jzwvix.exe
 ![image](https://github.com/user-attachments/assets/ba713486-1a9e-4563-836d-e1fa9b1bee16)
 
 ***Q7: Identifying the SHA-256 hash of files downloaded from a malicious URL is essential for tracking and analyzing malware activity. Based on the BitRAT analysis, what is the SHA-256 hash of the file previously downloaded and added to the autorun keys?***  
-**Answer:** `****************************************************************`
+**Answer:** bf7628695c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539
+
+![image](https://github.com/user-attachments/assets/d2bbace6-5b26-485f-8aee-d698b0eb491e)
+
+https://www.virustotal.com/gui/file/bf7628695c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539/details
 
 ***Q8: Analyzing the HTTP requests made by malware helps in identifying its communication patterns. What is the HTTP request used by the loader to retrieve the BitRAT malware?***  
 **Answer:** `****://***.***.***.***/******/******.***`
