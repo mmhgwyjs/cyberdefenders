@@ -85,7 +85,9 @@ Jzwvix.exe
 https://www.virustotal.com/gui/file/bf7628695c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539/details
 
 ***Q8: Analyzing the HTTP requests made by malware helps in identifying its communication patterns. What is the HTTP request used by the loader to retrieve the BitRAT malware?***  
-**Answer:** `****://***.***.***.***/******/******.***`
+**Answer:** `http://107.175.247.199/loader/server.exe`
+
+![image](https://github.com/user-attachments/assets/5f4e789f-cb6f-4c00-863a-508f4ef7d2ec)
 
 ***Q9: Introducing a delay in malware execution can help evade detection mechanisms. What is the delay (in seconds) caused by the PowerShell command according to the BitRAT analysis?***  
 **Answer:** `**`
