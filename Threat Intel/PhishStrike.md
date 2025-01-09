@@ -90,7 +90,11 @@ https://www.virustotal.com/gui/file/bf7628695c2df7a3020034a065397592a1f8850e59f9
 ![image](https://github.com/user-attachments/assets/5f4e789f-cb6f-4c00-863a-508f4ef7d2ec)
 
 ***Q9: Introducing a delay in malware execution can help evade detection mechanisms. What is the delay (in seconds) caused by the PowerShell command according to the BitRAT analysis?***  
-**Answer:** `**`
+**Answer:** 50
+
+![image](https://github.com/user-attachments/assets/df1d6613-8f61-4124-a793-48efe31e53b2)
+
+![image](https://github.com/user-attachments/assets/57e8b84e-0c53-409f-926e-d1734fd70d3d)
 
 ***Q10: Tracking the command and control (C2) domains used by malware is essential for detecting and blocking malicious activities. What is the C2 domain used by the BitRAT malware?***  
 **Answer:** `*****.******.***`
