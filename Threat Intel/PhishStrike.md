@@ -97,7 +97,11 @@ https://www.virustotal.com/gui/file/bf7628695c2df7a3020034a065397592a1f8850e59f9
 ![image](https://github.com/user-attachments/assets/57e8b84e-0c53-409f-926e-d1734fd70d3d)
 
 ***Q10: Tracking the command and control (C2) domains used by malware is essential for detecting and blocking malicious activities. What is the C2 domain used by the BitRAT malware?***  
-**Answer:** `*****.******.***`
+**Answer:** `gh9st.mywire.org`
+
+![image](https://github.com/user-attachments/assets/38399f90-6783-4f17-ac24-5f86b94e2065)
+
+https://tria.ge/221026-gxvytsehdp/behavioral1
 
 ***Q11: Understanding the methods malware uses for exfiltrating data is crucial for detecting and preventing data breaches. According to the AsyncRAT analysis, what is the Telegram Bot ID used by the malware?***  
 **Answer:** `***********`
