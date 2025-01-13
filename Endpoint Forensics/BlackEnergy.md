@@ -29,9 +29,17 @@ WinXPSP2x86
 
 ![image](https://github.com/user-attachments/assets/f63975b3-6b71-436c-9395-dfd4fa13fb1a)
 
+vol -f CYBERDEF-567078-20230213-171333.raw windows.info
+
 I am using Volatility 3, and the profile is not visible with the info plugin. Instead, I use ChatGPT to determine it based on the results above.
 
 ***2. How many processes were running when the image was acquired?***  
+
+19
+
+![image](https://github.com/user-attachments/assets/e3e232aa-921a-4d4d-bd18-8d5bf8314d79)
+
+vol -f CYBERDEF-567078-20230213-171333.raw windows.psscan
 
 ***3. What is the process ID of cmd.exe?***  
 
