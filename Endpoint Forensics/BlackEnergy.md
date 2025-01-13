@@ -25,6 +25,12 @@
 
 ***1. Which volatility profile would be best for this machine?***  
 
+WinXPSP2x86
+
+![image](https://github.com/user-attachments/assets/f63975b3-6b71-436c-9395-dfd4fa13fb1a)
+
+I am using Volatility 3, and the profile is not visible with the info plugin. Instead, I use ChatGPT to determine it based on the results above.
+
 ***2. How many processes were running when the image was acquired?***  
 
 ***3. What is the process ID of cmd.exe?***  
