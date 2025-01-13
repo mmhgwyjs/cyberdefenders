@@ -41,6 +41,8 @@ I am using Volatility 3, and the profile is not visible with the info plugin. In
 
 vol -f CYBERDEF-567078-20230213-171333.raw windows.psscan
 
+check the exit column, it will show the exit time
+
 ***3. What is the process ID of cmd.exe?***  
 
 ***4. What is the name of the most suspicious process?***  
