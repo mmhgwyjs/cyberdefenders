@@ -45,6 +45,10 @@ check the exit column, it will show the exit time
 
 ***3. What is the process ID of cmd.exe?***  
 
+1960 
+
+![image](https://github.com/user-attachments/assets/b4ed01cf-66a5-4933-987f-efebb5def62d)
+
 ***4. What is the name of the most suspicious process?***  
 
 ***5. Which process shows the highest likelihood of code injection?***  
