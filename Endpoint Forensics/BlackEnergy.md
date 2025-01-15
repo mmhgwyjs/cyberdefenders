@@ -51,6 +51,10 @@ check the exit column, it will show the exit time
 
 ***4. What is the name of the most suspicious process?***  
 
+rootkit.exe
+
+![image](https://github.com/user-attachments/assets/bd0e1529-3ecf-4fad-b66e-5f9cdebd8f74)
+
 ***5. Which process shows the highest likelihood of code injection?***  
 
 ***6. There is an odd file referenced in the recent process. Provide the full path of that file.***  
