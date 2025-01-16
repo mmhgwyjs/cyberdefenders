@@ -57,6 +57,20 @@ rootkit.exe
 
 ***5. Which process shows the highest likelihood of code injection?***  
 
+svchost.exe
+
+![image](https://github.com/user-attachments/assets/b39d9be4-5d1e-4f0d-a849-6d97ed225220)
+
+ vol -f CYBERDEF-567078-20230213-171333.raw windows.malfind
+
+ ![image](https://github.com/user-attachments/assets/70adb09e-fee6-4181-9251-f531f7cdcd1e)
+
+vol -f CYBERDEF-567078-20230213-171333.raw -o . windows.malfind --pid 880 --dump
+
+ sha256sum pid.880.vad.0x980000-0x988fff.dmp
+
+ ![image](https://github.com/user-attachments/assets/b80b093f-2607-4d6e-a37b-74c16475aca3)
+
 ***6. There is an odd file referenced in the recent process. Provide the full path of that file.***  
 Example Full Path: `C:\Windows\...\file.sys`  
 
