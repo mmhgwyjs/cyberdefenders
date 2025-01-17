@@ -72,7 +72,11 @@ vol -f CYBERDEF-567078-20230213-171333.raw -o . windows.malfind --pid 880 --dump
  ![image](https://github.com/user-attachments/assets/b80b093f-2607-4d6e-a37b-74c16475aca3)
 
 ***6. There is an odd file referenced in the recent process. Provide the full path of that file.***  
-Example Full Path: `C:\Windows\...\file.sys`  
+C:\WINDOWS\system32\drivers\str.sys 
+
+![image](https://github.com/user-attachments/assets/0b446530-3f05-4ab1-b014-2bc04fc80b13)
+
+vol -f CYBERDEF-567078-20230213-171333.raw windows.handles --pid 880 | grep sys
 
 ***7. What is the name of the injected DLL file loaded from the recent process?***  
 
