@@ -80,4 +80,10 @@ vol -f CYBERDEF-567078-20230213-171333.raw windows.handles --pid 880 | grep sys
 
 ***7. What is the name of the injected DLL file loaded from the recent process?***  
 
+msxml3r.dll
+
+![image](https://github.com/user-attachments/assets/0e609ef0-9699-47f1-a17d-6882707f1675)
+
+vol -f CYBERDEF-567078-20230213-171333.raw windows.ldrmodules --pid 880 | grep -i false
+
 ***8. What is the base address of the injected DLL?***  
