@@ -87,3 +87,7 @@ msxml3r.dll
 vol -f CYBERDEF-567078-20230213-171333.raw windows.ldrmodules --pid 880 | grep -i false
 
 ***8. What is the base address of the injected DLL?***  
+
+0x980000
+
+using the answer above
