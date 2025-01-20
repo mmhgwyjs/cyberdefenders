@@ -37,8 +37,14 @@ awk
 ## **Questions and Answers**
 
 ***1. `File => sdb.vhd` There is a script that runs every minute to do cleanup. What is the name of the file?***  
-Solved: 485  
-`.******.** .******.**`  
+
+.remove.sh
+
+/var/spool/cron/crontabs/
+
+![image](https://github.com/user-attachments/assets/034c20d6-b8af-45b8-aa9f-208fd6cb53c3)
+
+![image](https://github.com/user-attachments/assets/0d288c15-92c5-4af3-a5dd-85dc0ae1ce49)
 
 ***2. `File => sdb.vhd` The script in Q#1 terminates processes associated with two Bitcoin miner malware files. What is the name of 1st malware file?***  
 Solved: 456  
