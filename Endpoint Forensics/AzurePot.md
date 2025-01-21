@@ -47,8 +47,11 @@ awk
 ![image](https://github.com/user-attachments/assets/0d288c15-92c5-4af3-a5dd-85dc0ae1ce49)
 
 ***2. `File => sdb.vhd` The script in Q#1 terminates processes associated with two Bitcoin miner malware files. What is the name of 1st malware file?***  
-Solved: 456  
-`*******`  
+
+kinsing
+
+![image](https://github.com/user-attachments/assets/63a16bb6-f8b2-404a-a36a-b9cea01553a4)
+
 
 ***3. `File => sdb.vhd` The script in Q#1 changes the permissions for some files. What is their new permission?***  
 Solved: 455  
