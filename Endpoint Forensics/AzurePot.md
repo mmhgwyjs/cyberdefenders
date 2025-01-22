@@ -55,7 +55,10 @@ kinsing
 
 ***3. `File => sdb.vhd` The script in Q#1 changes the permissions for some files. What is their new permission?***  
 Solved: 455  
-`***`  
+
+444
+
+![image](https://github.com/user-attachments/assets/77505a86-1bd9-4b3d-b9d5-d85fa695604e)
 
 ***4. `File => sdb.vhd` What is the sha256 of the botnet agent file?***  
 Solved: 410  
