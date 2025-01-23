@@ -61,8 +61,16 @@ Solved: 455
 ![image](https://github.com/user-attachments/assets/77505a86-1bd9-4b3d-b9d5-d85fa695604e)
 
 ***4. `File => sdb.vhd` What is the sha256 of the botnet agent file?***  
-Solved: 410  
-`SHA256 Hash`  
+
+0e574fd30e806fe4298b3cbccb8d1089454f42f52892f87554325cb352646049
+
+![image](https://github.com/user-attachments/assets/a1694423-f439-47c4-b424-183d7c89969d)
+
+/var/tmp/
+
+![image](https://github.com/user-attachments/assets/03b361e1-96d5-444b-a54e-9b03b92722ab)
+
+![image](https://github.com/user-attachments/assets/5bb39add-03b0-47e9-be42-d9fb1b691815)
 
 ***5. `File => sdb.vhd` What is the name of the botnet in Q#4?***  
 Solved: 406  
