@@ -73,8 +73,9 @@ Solved: 455
 ![image](https://github.com/user-attachments/assets/5bb39add-03b0-47e9-be42-d9fb1b691815)
 
 ***5. `File => sdb.vhd` What is the name of the botnet in Q#4?***  
-Solved: 406  
-`*******`  
+tsunami
+
+![image](https://github.com/user-attachments/assets/43620eb7-4797-4cc0-915d-041c792b7bf7)
 
 ***6. `File => sdb.vhd` What IP address matches the creation timestamp of the botnet agent file in Q#4?***  
 Solved: 390  
