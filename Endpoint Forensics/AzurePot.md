@@ -78,8 +78,11 @@ tsunami
 ![image](https://github.com/user-attachments/assets/43620eb7-4797-4cc0-915d-041c792b7bf7)
 
 ***6. `File => sdb.vhd` What IP address matches the creation timestamp of the botnet agent file in Q#4?***  
-Solved: 390  
-`***.***.**.**`  
+
+141.135.85.36
+
+![image](https://github.com/user-attachments/assets/1dad7550-b2e6-48fc-87e3-da0e3e778933)
+
 
 ***7. `File => sdb.vhd` What URL did the attacker use to download the botnet agent?***  
 Solved: 368  
