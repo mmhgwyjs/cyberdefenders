@@ -85,8 +85,9 @@ tsunami
 
 
 ***7. `File => sdb.vhd` What URL did the attacker use to download the botnet agent?***  
-Solved: 368  
-`URL(e.g.,http://138.1...)`  
+http://138.197.206.223:80/wp-content/themes/twentysixteen/dk86
+
+![image](https://github.com/user-attachments/assets/1d5de8b2-2265-42d5-8547-361cccac538b)
 
 ***8. `File => sdb.vhd` What is the name of the file that the attacker downloaded to execute the malicious script and subsequently remove itself?***  
 Solved: 330  
