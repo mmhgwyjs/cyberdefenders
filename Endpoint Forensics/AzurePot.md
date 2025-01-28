@@ -110,8 +110,14 @@ apache error logs
 
 
 ***9. `File => sdb.vhd` The attacker downloaded sh scripts. What are the names of these files?***  
-Solved: 333  
-`*_****.**, *_*****.**, **.**`  
+
+0_cron.sh,0_linux.sh,ap.sh
+
+![image](https://github.com/user-attachments/assets/9a17afa7-5ab5-4f31-b65c-9bc73d8b8ea8)
+
+![image](https://github.com/user-attachments/assets/ec50bb6c-4ab5-45f5-8a36-4e8081dbb616)
+
+![image](https://github.com/user-attachments/assets/05f1b9a4-fed3-4cbe-9b46-dcc687d6e4ce)
 
 ***10. `File => UAC` Two suspicious processes were running from a deleted directory. What are their PIDs?***  
 Solved: 330  
