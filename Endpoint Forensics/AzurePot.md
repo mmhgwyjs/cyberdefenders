@@ -120,8 +120,32 @@ apache error logs
 ![image](https://github.com/user-attachments/assets/05f1b9a4-fed3-4cbe-9b46-dcc687d6e4ce)
 
 ***10. `File => UAC` Two suspicious processes were running from a deleted directory. What are their PIDs?***  
-Solved: 330  
-`****, *****`  
+
+6388, 20645
+
+![image](https://github.com/user-attachments/assets/dbdec6dd-779e-4551-ae99-1f48df0aff8f)
+
+UAC (Unix-like Artifacts Collector) is a forensic tool for collecting system artifacts (logs, processes, network connections) from Unix-based systems like Linux and macOS.
+
+lsof -nPl lists open files with:
+
+- -n - Disables DNS resolution (faster output).
+- -P - Shows raw port numbers instead of names.
+- -l - Displays numeric UIDs instead of usernames.
+
+FD (File Descriptor) in lsof represents how a process accesses a file.
+
+Common FD Types:
+- cwd - Current working directory
+- rtd - Root directory
+- txt - Executable file
+- mem - Memory-mapped file
+- 0u - stdin, 1u - stdout, 2u - stderr
+- REG - Regular file, DIR - Directory, SOCK - Socket
+Suffixes:
+- r - Read-only
+- w - Write-only
+- u - Read & Write
 
 ***11. `File => UAC` What is the suspicious command line associated with the 2nd PID in Q#10?***  
 Solved: 325  
