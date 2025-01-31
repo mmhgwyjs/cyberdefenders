@@ -148,8 +148,11 @@ Suffixes:
 - u - Read & Write
 
 ***11. `File => UAC` What is the suspicious command line associated with the 2nd PID in Q#10?***  
-Solved: 325  
-`** .***.**`  
+
+sh .src.sh
+
+![image](https://github.com/user-attachments/assets/692c27f0-feb8-4f12-82b6-097b8af7a29f)
+
 
 ***12. `File => UAC` UAC gathered some data from the second process in Q#10. What is the remote IP address and remote port that was used in the attack?***  
 Solved: 316  
