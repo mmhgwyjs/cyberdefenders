@@ -153,6 +153,14 @@ sh .src.sh
 
 ![image](https://github.com/user-attachments/assets/692c27f0-feb8-4f12-82b6-097b8af7a29f)
 
+ps -deaf lists all processes with detailed info, excluding session leaders.
+
+ps -deaf breakdown:
+
+d – Excludes session leaders
+e – Shows all processes
+a – Includes processes from all users
+f – Full-format output
 
 ***12. `File => UAC` UAC gathered some data from the second process in Q#10. What is the remote IP address and remote port that was used in the attack?***  
 Solved: 316  
