@@ -169,8 +169,8 @@ f – Full-format output
 ![image](https://github.com/user-attachments/assets/fe23e425-1267-4987-8b4c-e569cb714394)
 
 ***13. `File => UAC` Which user was responsible for executing the command in Q#11?***  
-Solved: 317  
-`******`  
+
+daemon
 
 ***14. `File => UAC` Two suspicious shell processes were running from the tmp folder. What are their PIDs?***  
 Solved: 297  
