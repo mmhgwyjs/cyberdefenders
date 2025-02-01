@@ -163,8 +163,10 @@ a – Includes processes from all users
 f – Full-format output
 
 ***12. `File => UAC` UAC gathered some data from the second process in Q#10. What is the remote IP address and remote port that was used in the attack?***  
-Solved: 316  
-`***.***.***.**:*****`  
+
+116.202.187.77:56590
+
+![image](https://github.com/user-attachments/assets/fe23e425-1267-4987-8b4c-e569cb714394)
 
 ***13. `File => UAC` Which user was responsible for executing the command in Q#11?***  
 Solved: 317  
