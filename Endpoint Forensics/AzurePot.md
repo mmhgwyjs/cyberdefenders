@@ -173,8 +173,12 @@ f – Full-format output
 daemon
 
 ***14. `File => UAC` Two suspicious shell processes were running from the tmp folder. What are their PIDs?***  
-Solved: 297  
-`*****, *****`  
+
+15853, 21785
+
+![image](https://github.com/user-attachments/assets/6701729d-fb68-44a8-816e-87734ec9e6c6)
+
+`cat lsof_-nPl.txt | grep /tmp`
 
 ***15. `File => ubuntu.20211208.mem` What is the MAC address of the captured memory?***  
 Solved: 296  
