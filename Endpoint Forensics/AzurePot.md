@@ -181,8 +181,22 @@ daemon
 `cat lsof_-nPl.txt | grep /tmp`
 
 ***15. `File => ubuntu.20211208.mem` What is the MAC address of the captured memory?***  
-Solved: 296  
-`**:**:**:**:**:**`  
+
+ 00:22:48:26:3b:16
+
+![image](https://github.com/user-attachments/assets/4cabc272-3217-43bd-88fb-1043f2ceda73)
+
+strings -a ubuntu.20211208.mem | egrep -o '([0-9a-fA-F]{2}:){5}[0-9a-fA-F]{2}' | sort | uniq -c
+
+OR 
+
+![image](https://github.com/user-attachments/assets/7a87acc1-c09e-4028-9cc1-0705c6227c4d)
+
+![image](https://github.com/user-attachments/assets/3835778a-464d-488e-b43b-797711667575)
+
+egrep -o '([0-9a-fA-F]{2}:){5}[0-9a-fA-F]{2}' memdump.txt | sort | uniq -c
+
+![image](https://github.com/user-attachments/assets/13317428-848b-4029-b9b6-545a948f82c5)
 
 ***16. `File => ubuntu.20211208.mem` From Bash history. The attacker downloaded an sh script. What is the name of the file?***  
 Solved: 301  
