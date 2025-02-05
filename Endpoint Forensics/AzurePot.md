@@ -199,8 +199,12 @@ egrep -o '([0-9a-fA-F]{2}:){5}[0-9a-fA-F]{2}' memdump.txt | sort | uniq -c
 ![image](https://github.com/user-attachments/assets/13317428-848b-4029-b9b6-545a948f82c5)
 
 ***16. `File => ubuntu.20211208.mem` From Bash history. The attacker downloaded an sh script. What is the name of the file?***  
-Solved: 301  
-`*******`  
 
+unk.sh
 
-This should now be ready for you to copy and paste directly!
+cat memdump.txt | grep "wget.*\.sh" | sort | uniq -c
+
+![image](https://github.com/user-attachments/assets/e965e095-51b9-4dd9-a7e5-43b7e1dfeea0)
+
+![image](https://github.com/user-attachments/assets/cdcc0c6d-8c16-446d-ac2e-1e3e921c9064)
+
