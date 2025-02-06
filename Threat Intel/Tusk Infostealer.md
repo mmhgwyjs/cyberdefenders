@@ -30,7 +30,9 @@ MD5: E5B8B2CF5B244500B22B665C87C11767
 ![image](https://github.com/user-attachments/assets/9274f8fe-17e2-44e0-bd07-d6f88ca9fafb)
 
 ***Q2: What word does the threat actor use in log messages to refer to victims, drawing inspiration from ancient tusk hunters?***  
-**Answer:** `*******` / `*******`  
+**Answer:** `Mammoth`  
+
+![image](https://github.com/user-attachments/assets/f4b29104-bd29-4893-9ad4-c9686961c573)
 
 ***Q3: The threat actor created a malicious website to simulate a platform specialized for creating and managing decentralized autonomous organizations (DAOs) on the MultiversX blockchain. What is the name of the malicious website?***  
 **Answer:** `******.**` / `******.**`  
