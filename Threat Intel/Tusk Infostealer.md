@@ -34,8 +34,12 @@ MD5: E5B8B2CF5B244500B22B665C87C11767
 
 ![image](https://github.com/user-attachments/assets/f4b29104-bd29-4893-9ad4-c9686961c573)
 
+https://www.infostealers.com/article/tusk-unraveling-a-complex-infostealer-campaign/
+
 ***Q3: The threat actor created a malicious website to simulate a platform specialized for creating and managing decentralized autonomous organizations (DAOs) on the MultiversX blockchain. What is the name of the malicious website?***  
-**Answer:** `******.**` / `******.**`  
+**Answer:** `tidyme[.]io` 
+
+![image](https://github.com/user-attachments/assets/988bb782-4f77-4aa0-8b99-bc480f644c4d)
 
 ***Q4: Where are malware samples hosted for both macOS and Windows?***  
 **Answer:** `*******` / `*******`  
