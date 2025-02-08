@@ -42,7 +42,9 @@ https://www.infostealers.com/article/tusk-unraveling-a-complex-infostealer-campa
 ![image](https://github.com/user-attachments/assets/988bb782-4f77-4aa0-8b99-bc480f644c4d)
 
 ***Q4: Where are malware samples hosted for both macOS and Windows?***  
-**Answer:** `*******` / `*******`  
+**Answer:** `Dropbox`
+
+![image](https://github.com/user-attachments/assets/c077d941-19a9-41d4-a4d9-772d5ad14bb8)
 
 ***Q5: The malicious executable contains a configuration file that includes base64-encoded URLs and a password used for archived data decompression, enabling the download of second-stage payloads. What is the password for decompression found in this configuration file?***  
 **Answer:** `***********` / `***********`  
