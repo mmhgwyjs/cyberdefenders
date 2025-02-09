@@ -47,7 +47,9 @@ https://www.infostealers.com/article/tusk-unraveling-a-complex-infostealer-campa
 ![image](https://github.com/user-attachments/assets/c077d941-19a9-41d4-a4d9-772d5ad14bb8)
 
 ***Q5: The malicious executable contains a configuration file that includes base64-encoded URLs and a password used for archived data decompression, enabling the download of second-stage payloads. What is the password for decompression found in this configuration file?***  
-**Answer:** `***********` / `***********`  
+**Answer:** `newfile2024`
+
+![image](https://github.com/user-attachments/assets/cd89018d-c178-443f-8448-700a0c996ae9)
 
 ***Q6: What is the name of the function responsible for retrieving the field archive from the configuration file?***  
 **Answer:** `*************************` / `*************************`  
