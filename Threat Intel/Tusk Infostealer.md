@@ -52,7 +52,9 @@ https://www.infostealers.com/article/tusk-unraveling-a-complex-infostealer-campa
 ![image](https://github.com/user-attachments/assets/cd89018d-c178-443f-8448-700a0c996ae9)
 
 ***Q6: What is the name of the function responsible for retrieving the field archive from the configuration file?***  
-**Answer:** `*************************` / `*************************`  
+**Answer:** downloadAndExtractArchive
+
+![image](https://github.com/user-attachments/assets/63570ce1-4629-4535-baff-0379c13d63d1)
 
 ***Q7: In the Third Sub-Campaign, the attacker simulated an AI translator. What is the name of the legitimate translator and the name of the malicious translator?***  
 **Answer:** `****, *****` / `****, *****`  
