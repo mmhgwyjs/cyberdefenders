@@ -62,7 +62,9 @@ https://www.infostealers.com/article/tusk-unraveling-a-complex-infostealer-campa
 ![image](https://github.com/user-attachments/assets/9acafc35-9ca9-4fca-b198-22788d56138c)
 
 ***Q8: What are the IP Addresses of the StealC C2 Server?***  
-**Answer:** `**.*.***.***, **.**.***.***` / `**.*.***.***, **.**.***.***`  
+**Answer:** `46.8.238.240, 23.94.225.177`
+
+![image](https://github.com/user-attachments/assets/e73b25ac-b4cf-4ac8-8456-caf6426d79eb)
 
 ***Q9: What is the address of the Ethereum cryptocurrency wallet used in this campaign?***  
 **Answer:** `*************`  
