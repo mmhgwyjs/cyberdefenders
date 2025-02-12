@@ -57,7 +57,9 @@ https://www.infostealers.com/article/tusk-unraveling-a-complex-infostealer-campa
 ![image](https://github.com/user-attachments/assets/63570ce1-4629-4535-baff-0379c13d63d1)
 
 ***Q7: In the Third Sub-Campaign, the attacker simulated an AI translator. What is the name of the legitimate translator and the name of the malicious translator?***  
-**Answer:** `****, *****` / `****, *****`  
+**Answer:** `yous, voico`
+
+![image](https://github.com/user-attachments/assets/9acafc35-9ca9-4fca-b198-22788d56138c)
 
 ***Q8: What are the IP Addresses of the StealC C2 Server?***  
 **Answer:** `**.*.***.***, **.**.***.***` / `**.*.***.***, **.**.***.***`  
