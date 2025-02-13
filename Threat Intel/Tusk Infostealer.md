@@ -67,4 +67,7 @@ https://www.infostealers.com/article/tusk-unraveling-a-complex-infostealer-campa
 ![image](https://github.com/user-attachments/assets/e73b25ac-b4cf-4ac8-8456-caf6426d79eb)
 
 ***Q9: What is the address of the Ethereum cryptocurrency wallet used in this campaign?***  
-**Answer:** `*************`  
+**Answer:** `0xaf0362e215Ff4e004F30e785e822F7E20b99723A`
+
+![image](https://github.com/user-attachments/assets/41523e8f-b484-4578-aff4-e6e34a4a8d68)
+
