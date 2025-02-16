@@ -14,7 +14,7 @@ Resources: [Linux Artifacts - Targeted Locations Quick Reference Guide](https://
 
 **Files:** `N/A`
 
-**Tools:** `Volatility` 
+**Tools:** `` 
 
 **Note:** In this walkthrough, CyberDefenders offers a lab environment for us to utilize. This feature is included with the PRO subscription.
 
@@ -23,9 +23,10 @@ Resources: [Linux Artifacts - Targeted Locations Quick Reference Guide](https://
 ## **Questions and Answers**
 
 ***1. I use print statements for my logging -> What is the name of the utility/library the user was looking at exploits for?***  
+log4j
 
 ***2. Mischievous Lemur -> What is the version ID number of the operating system on the machine?***  
-**.** **.**  
+21.10
 
 ***3. $whoami -> What is the hostname of the computer?***  
 ******-****** ******-******  
