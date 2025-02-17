@@ -25,11 +25,24 @@ Resources: [Linux Artifacts - Targeted Locations Quick Reference Guide](https://
 ***1. I use print statements for my logging -> What is the name of the utility/library the user was looking at exploits for?***  
 log4j
 
+![image](https://github.com/user-attachments/assets/4f7dbcd4-0bbe-4bcb-a0ed-fcf03f808f8e)
+
+port 4444 - It's frequently used with tools like Metasploit, where it serves as the default port for payloads like meterpreter.
+
 ***2. Mischievous Lemur -> What is the version ID number of the operating system on the machine?***  
 21.10
 
+![image](https://github.com/user-attachments/assets/0689e3c4-2ece-4d4b-bd7f-baf14f4f5dcb)
+/etc/os-release
+
+![image](https://github.com/user-attachments/assets/6ebcd38d-f1c9-4703-ba62-27d88e1b2a61)
+/usr/lib/os-release
+
 ***3. $whoami -> What is the hostname of the computer?***  
-******-****** ******-******  
+rshell-lenovo
+
+![image](https://github.com/user-attachments/assets/c7c55fd7-8fa7-47c1-911a-450fcaf5a410)
+/etc/hostname
 
 ***4. A little blue birdie told me -> What is one anime that the user likes?***  
 
