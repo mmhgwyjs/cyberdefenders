@@ -46,6 +46,8 @@ rshell-lenovo
 
 ***4. A little blue birdie told me -> What is one anime that the user likes?***  
 
+attack on titan
+
 ***5. Into the Matrix, we go -> What is the UUID for the attacker's Minecraft account?***  
 UUID(e.g.,8b0dec19...) UUID(e.g.,8b0dec19...)  
 
