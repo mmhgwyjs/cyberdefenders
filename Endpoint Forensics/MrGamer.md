@@ -27,6 +27,8 @@ log4j
 
 ![image](https://github.com/user-attachments/assets/4f7dbcd4-0bbe-4bcb-a0ed-fcf03f808f8e)
 
+/home/rafael/.bash_history
+
 port 4444 - It's frequently used with tools like Metasploit, where it serves as the default port for payloads like meterpreter.
 
 ***2. Mischievous Lemur -> What is the version ID number of the operating system on the machine?***  
@@ -50,14 +52,27 @@ attack on titan
 
 ![image](https://github.com/user-attachments/assets/98806e01-78ee-4de5-b1ba-4975c88002f2)
 
-I thought Twitter first then I saw thunderbird email which is a blue bird as well. Then I checked the mailbox and see the Twitter-related events.
+I thought Twitter first then I saw thunderbird mail which is a blue bird as well. Then I checked the mailbox and see the Twitter-related events.
+
+/home/rafael/.thunderbird/vrvcx2qf.default-release/ImapMail/imap.gmail.com/INBOX.msf
 
 ***5. Into the Matrix, we go -> What is the UUID for the attacker's Minecraft account?***  
 
 8b0dec19-b463-477e-9548-eef20c861492
 
+![image](https://github.com/user-attachments/assets/d5557ea1-6573-48d6-9250-707e082922b7)
+
+/home/rafael/.minecraft/user-cache.json
 
 ***6. Today's Youtube video is sponsored by... -> What VPN client did the user install and use on the machine?***  
+
+zerotier
+
+![image](https://github.com/user-attachments/assets/fbd2ddbc-a275-4f1d-b491-58d570f217bf)
+
+/home/rafael/.bash_history
+
+![image](https://github.com/user-attachments/assets/3600f51c-a137-4f96-9e2b-1e407d63b21a)
 
 ***7. Be our guest -> What was the user's first password for the guest wifi?***  
 
