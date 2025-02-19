@@ -48,6 +48,10 @@ rshell-lenovo
 
 attack on titan
 
+![image](https://github.com/user-attachments/assets/98806e01-78ee-4de5-b1ba-4975c88002f2)
+
+I thought Twitter first then I saw thunderbird email which is a blue bird as well. Then I checked the mailbox and see the Twitter-related events.
+
 ***5. Into the Matrix, we go -> What is the UUID for the attacker's Minecraft account?***  
 
 8b0dec19-b463-477e-9548-eef20c861492
