@@ -1,4 +1,4 @@
-# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/mrgamer/">MrGamer</a>
+![image](https://github.com/user-attachments/assets/32b30870-4d06-45e9-8ec7-bd0835648031)![image](https://github.com/user-attachments/assets/3ce6cfdc-36af-4805-9262-d18f252dc1b0)![image](https://github.com/user-attachments/assets/55707645-1c62-468e-b549-75783c04adfb)![image](https://github.com/user-attachments/assets/5ec93d1a-8b9f-4389-90b5-1cb3b7101540)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/mrgamer/">MrGamer</a>
 
 **Platform:** CyberDefenders
 
@@ -76,7 +76,13 @@ zerotier
 
 ***7. Be our guest -> What was the user's first password for the guest wifi?***  
 
+![image](https://github.com/user-attachments/assets/c1649231-1a59-4c83-9390-26932b923b06)
+
+/etc/NetworkManager/system-connections/Ezmoneynmconnection
+
 ***8. If a picture is worth a thousand words, how many is a video worth? -> The user watched a video that premiered on Dec 11th, 2021. How many views did it have when they watched it on February 9th?***  
+
+093483
 
 ***9. I'm hungry for videos -> What is the new channel name for the YouTuber whose cookbook is shown on the device?***  
 
