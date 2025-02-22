@@ -92,6 +92,8 @@ but not the first
 
 ***8. If a picture is worth a thousand words, how many is a video worth? -> The user watched a video that premiered on Dec 11th, 2021. How many views did it have when they watched it on February 9th?***  
 
+I first look into mozilla files but did not find it
+
 ![image](https://github.com/user-attachments/assets/e685cda2-2df7-48ff-b66e-8d65a3ea0c6d)
 
 265342
