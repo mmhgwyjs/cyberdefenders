@@ -80,11 +80,27 @@ zerotier
 
 /etc/NetworkManager/system-connections/Ezmoneynmconnection
 
-***8. If a picture is worth a thousand words, how many is a video worth? -> The user watched a video that premiered on Dec 11th, 2021. How many views did it have when they watched it on February 9th?***  
-
 093483
 
+![image](https://github.com/user-attachments/assets/bda51ff7-82ec-49f4-ae0f-77ef010ba3bf)
+
+but not the first
+
+/home/rafael/.thunderbird/vrvcx2qf.default-release/ImapMail/imap.gmail.com/INBOX
+
+![image](https://github.com/user-attachments/assets/1ce86d6a-990f-475b-9633-e48d610389ba)
+
+***8. If a picture is worth a thousand words, how many is a video worth? -> The user watched a video that premiered on Dec 11th, 2021. How many views did it have when they watched it on February 9th?***  
+
+![image](https://github.com/user-attachments/assets/e685cda2-2df7-48ff-b66e-8d65a3ea0c6d)
+
+265342
+
+/home/rafael/pictures/Screenshot from 2022-02-09 16-42-10.png
+
 ***9. I'm hungry for videos -> What is the new channel name for the YouTuber whose cookbook is shown on the device?***  
+
+
 
 ***10. Hunt the Wumpus -> What is the module with the highest installed version for the chat application with the mascot Wumpus?***  
 
