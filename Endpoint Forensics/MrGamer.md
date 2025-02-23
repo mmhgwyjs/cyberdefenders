@@ -102,7 +102,7 @@ I first look into mozilla files but did not find it
 
 ***9. I'm hungry for videos -> What is the new channel name for the YouTuber whose cookbook is shown on the device?***  
 
-
+Babish Culinary Universe
 
 ***10. Hunt the Wumpus -> What is the module with the highest installed version for the chat application with the mascot Wumpus?***  
 
