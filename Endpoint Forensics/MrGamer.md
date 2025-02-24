@@ -106,6 +106,8 @@ Babish Culinary Universe
 
 ***10. Hunt the Wumpus -> What is the module with the highest installed version for the chat application with the mascot Wumpus?***  
 
+discord_voice
+
 ***11. It's raining ocelots and wolves -> According to Windows, what was the temperature in Fahrenheit on February 11th, 2022, at 6:30 PM?***  
 
 ***12. Never gonna give... up on this question -> What is the upload date of the second YouTube video on the channel from which the user downloaded a YouTube video?***  
