@@ -110,6 +110,8 @@ discord_voice
 
 ***11. It's raining ocelots and wolves -> According to Windows, what was the temperature in Fahrenheit on February 11th, 2022, at 6:30 PM?***  
 
+45F
+
 ***12. Never gonna give... up on this question -> What is the upload date of the second YouTube video on the channel from which the user downloaded a YouTube video?***  
 
 ***13. Buzzy Bees -> What is the SHA-1 hash of Minecraft's "latest" release according to the system?***  
