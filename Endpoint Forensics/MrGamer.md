@@ -146,6 +146,14 @@ it provides the original file path
 
 ***12. Never gonna give... up on this question -> What is the upload date of the second YouTube video on the channel from which the user downloaded a YouTube video?***  
 
+![image](https://github.com/user-attachments/assets/34d3f53b-9ef2-4edc-a268-1d6886480d55)
+
+rickrolled 
+
+![image](https://github.com/user-attachments/assets/8c572315-af45-411f-a082-e5cbae117c78)
+
+10/25/2009
+
 ***13. Buzzy Bees -> What is the SHA-1 hash of Minecraft's "latest" release according to the system?***  
 SHA1 Hash SHA1 Hash  
 
