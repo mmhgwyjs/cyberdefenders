@@ -155,7 +155,12 @@ rickrolled
 10/25/2009
 
 ***13. Buzzy Bees -> What is the SHA-1 hash of Minecraft's "latest" release according to the system?***  
-SHA1 Hash SHA1 Hash  
+
+3c6e119c0ff307accf31b596f9cd47ffa2ec6305
+
+![image](https://github.com/user-attachments/assets/790e61d9-51f0-44f4-b2bb-2a38cecba423)
+
+![image](https://github.com/user-attachments/assets/66b43dad-b45b-4b08-9c30-8a2fb44daa17)
 
 ***14. The RCE is base(64)d on what? -> What were the three flags and their values that were passed to powercat? The answer must be provided in the same format as the entered command. (For example, if the command was "powercat -D Y -l a -n," the answer would be "-D Y -l a -n")***  
 Flags(e.g.,-c 192.**...) Flags(e.g.,-c 192.**...)  
