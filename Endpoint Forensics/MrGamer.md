@@ -104,6 +104,16 @@ I first look into mozilla files but did not find it
 
 Babish Culinary Universe
 
+![image](https://github.com/user-attachments/assets/16b8f2f8-dad3-44d1-9092-c8677928b0cb)
+
+/home/rafael/.cache/thumbnails/large
+
+> this directory is used to cache thumbnails to speed up file browsing, so your system doesn't have to regenerate thumbnails each time you open a folder.
+
+![image](https://github.com/user-attachments/assets/7a38f7c0-a77f-475c-82d9-8aacd1e285cd)
+
+![image](https://github.com/user-attachments/assets/681ea8be-d396-4017-9f59-9af770187a91)
+
 ***10. Hunt the Wumpus -> What is the module with the highest installed version for the chat application with the mascot Wumpus?***  
 
 discord_voice
