@@ -118,9 +118,31 @@ Babish Culinary Universe
 
 discord_voice
 
+![image](https://github.com/user-attachments/assets/becbd057-19dd-4856-97a0-cdbbf557e4be)
+
+![image](https://github.com/user-attachments/assets/7491a8f9-ee53-4e2d-b673-8fc16f0a9eda)
+
+/home/rafael/.config/discord/0.0.16/modules/installed.json
+
 ***11. It's raining ocelots and wolves -> According to Windows, what was the temperature in Fahrenheit on February 11th, 2022, at 6:30 PM?***  
 
 45F
+
+![image](https://github.com/user-attachments/assets/3a724ac0-bc28-48eb-af50-dca59e7df823)
+
+/home/rafael/.cache/thumbnails/large
+
+the image is unreadable
+
+exported it then use exiftool to check the metadata
+
+![image](https://github.com/user-attachments/assets/3cdba1d0-1698-477b-a3bc-1e2ff92783be)
+
+it provides the original file path
+
+/home/rafael/marshalsec/poc/YXvySdGd.jpeg
+
+![image](https://github.com/user-attachments/assets/1fcd8360-dec1-47cc-b7ee-2701acf08585)
 
 ***12. Never gonna give... up on this question -> What is the upload date of the second YouTube video on the channel from which the user downloaded a YouTube video?***  
 
