@@ -178,4 +178,14 @@ cyberchef
 
 ***15. Hello (New) World -> How many dimensions (including the overworld) did the player travel to in the "oldest of the worlds"?***  
 
+`one`
+
+I use chatgpt for research, I am not familiar with the dimensions in minecraft.
+
+![image](https://github.com/user-attachments/assets/2d656552-67e5-49f1-b019-a6f103c9dcab)
+
+![image](https://github.com/user-attachments/assets/4f7b10b1-d687-45d3-a62e-19d5b4abfb87)
+
+So manually, we will check /home/rafael/.minecraft/saves/<world-name>/advancements/8b0dec19-b463-477e-9548-eef20c861492.json. Since we cannot find any, we can say that the player did not go to another world aside from the original.
+
 ***16. Matrix_1999 is the key! -> What is the mojangClientToken stored in the Keystore?***  
