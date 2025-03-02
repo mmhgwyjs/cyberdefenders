@@ -189,3 +189,5 @@ I use chatgpt for research, I am not familiar with the dimensions in minecraft.
 So manually, we will check /home/rafael/.minecraft/saves/<world-name>/advancements/8b0dec19-b463-477e-9548-eef20c861492.json. Since we cannot find any, we can say that the player did not go to another world aside from the original.
 
 ***16. Matrix_1999 is the key! -> What is the mojangClientToken stored in the Keystore?***  
+
+2f76c8b04c004ddd888a05a6cad6be52
