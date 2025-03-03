@@ -18,5 +18,5 @@
 
 ## **Questions and Answers**
 
-***1. What was the source IP responsible for potential port scanning activity?***  
-**Answer: `87.96.21.84`**
+***1. How many packets does the capture have?***  
+**Answer: `4003`**
