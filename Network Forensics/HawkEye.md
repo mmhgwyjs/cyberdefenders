@@ -20,3 +20,6 @@
 
 ***1. How many packets does the capture have?***  
 **Answer: `4003`**
+
+***2. At what time was the first packet captured?***
+**Answer: `2019-04-10 20:37:07 UTC`**
