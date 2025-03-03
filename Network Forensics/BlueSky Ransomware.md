@@ -26,8 +26,6 @@ Your role in the team is to conduct a detailed analysis of the evidence to deter
 
 ## **Questions and Answers**
 
-Got it! Here’s the complete set with all the original sentences included:
-
 ***1. What was the source IP responsible for potential port scanning activity?***  
 **Answer: `87.96.21.84`**
 
