@@ -23,3 +23,7 @@
 
 ***2. At what time was the first packet captured?***
 **Answer: `2019-04-10 20:37:07 UTC`**
+
+***3. What is the duration of the capture?***
+
+**Answer: 01:03:41**
