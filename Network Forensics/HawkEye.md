@@ -18,6 +18,8 @@
 
 ## **Questions and Answers**
 
+![image](https://github.com/user-attachments/assets/6f7702b2-4616-4290-990b-2573eb266caa)
+
 ***1. How many packets does the capture have?***  
 **Answer: `4003`**
 
@@ -27,3 +29,10 @@
 ***3. What is the duration of the capture?***
 
 **Answer: 01:03:41**
+
+***4. What is the most active computer at the link level?***
+
+**Answer: 00:08:02:1c:47:ae**
+
+![image](https://github.com/user-attachments/assets/65899d83-4cb2-46f3-a1d6-aa0ffac5da12)
+
