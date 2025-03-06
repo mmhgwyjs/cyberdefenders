@@ -36,3 +36,8 @@
 
 ![image](https://github.com/user-attachments/assets/65899d83-4cb2-46f3-a1d6-aa0ffac5da12)
 
+***5. Manufacturer of the NIC of the most active system at the link level?***
+
+Hewlett-Packard
+
+![image](https://github.com/user-attachments/assets/cc35fd84-0bb6-4060-bb7a-7b325a9bf4a6)
