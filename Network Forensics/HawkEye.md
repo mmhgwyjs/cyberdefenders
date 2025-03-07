@@ -41,3 +41,9 @@
 Hewlett-Packard
 
 ![image](https://github.com/user-attachments/assets/cc35fd84-0bb6-4060-bb7a-7b325a9bf4a6)
+
+***6. Where is the headquarter of the company that manufactured the NIC of the most active computer at the link level?***
+
+Palo Alto
+
+![image](https://github.com/user-attachments/assets/12053b34-1dbe-4cc9-9722-b716eeca9951)
