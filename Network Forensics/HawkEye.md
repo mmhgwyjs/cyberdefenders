@@ -47,3 +47,12 @@ Hewlett-Packard
 Palo Alto
 
 ![image](https://github.com/user-attachments/assets/12053b34-1dbe-4cc9-9722-b716eeca9951)
+
+***7. The organization works with private addressing and netmask /24. How many computers in the organization are involved in the capture?***
+
+3
+
+![image](https://github.com/user-attachments/assets/89f09989-a553-49c1-ad29-ad4e947c46f9)
+
+.255 is not included since it is a broadcast address
+
