@@ -65,3 +65,11 @@ BEIJING-5CD1-PC
 ![image](https://github.com/user-attachments/assets/6c5b3cdb-3a27-4f31-bd98-6c8f30cf8017)
 
 ![image](https://github.com/user-attachments/assets/8f2e6dce-e6e9-42e6-96a2-007cb325abdd)
+
+***9. What is the IP of the organization's DNS server?***
+
+10.4.10.4
+
+![image](https://github.com/user-attachments/assets/96ff94f9-a058-4022-84f6-825cd17ecd64)
+
+port 53 - DNS
