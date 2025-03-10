@@ -56,3 +56,12 @@ Palo Alto
 
 .255 is not included since it is a broadcast address
 
+***8. What is the name of the most active computer at the network level?***
+
+BEIJING-5CD1-PC
+
+![image](https://github.com/user-attachments/assets/2a7d00bd-2084-410b-98d2-992a36975403)
+
+![image](https://github.com/user-attachments/assets/6c5b3cdb-3a27-4f31-bd98-6c8f30cf8017)
+
+![image](https://github.com/user-attachments/assets/8f2e6dce-e6e9-42e6-96a2-007cb325abdd)
