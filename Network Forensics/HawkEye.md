@@ -73,3 +73,9 @@ BEIJING-5CD1-PC
 ![image](https://github.com/user-attachments/assets/96ff94f9-a058-4022-84f6-825cd17ecd64)
 
 port 53 - DNS
+
+***10. What domain is the victim asking about in packet 204?***
+
+proforma-invoices.com
+
+![image](https://github.com/user-attachments/assets/c599fca9-64e8-43c1-9f34-1b92c76fc076)
