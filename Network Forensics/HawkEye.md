@@ -79,3 +79,9 @@ port 53 - DNS
 proforma-invoices.com
 
 ![image](https://github.com/user-attachments/assets/c599fca9-64e8-43c1-9f34-1b92c76fc076)
+
+***11. What is the IP of the domain in the previous question?***
+
+![image](https://github.com/user-attachments/assets/d343ee05-ce46-4e5a-8ec6-c82341698483)
+
+217.182.138.150
