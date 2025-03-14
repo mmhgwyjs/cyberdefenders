@@ -84,4 +84,11 @@ proforma-invoices.com
 
 ![image](https://github.com/user-attachments/assets/d343ee05-ce46-4e5a-8ec6-c82341698483)
 
+
+***12. Indicate the country to which the IP in the previous section belongs.***
+
+France
+
+![image](https://github.com/user-attachments/assets/fa6822dd-dcd0-41ad-b526-a7ebafefd773)
+
 217.182.138.150
