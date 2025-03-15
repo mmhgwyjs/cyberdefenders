@@ -92,3 +92,11 @@ France
 ![image](https://github.com/user-attachments/assets/fa6822dd-dcd0-41ad-b526-a7ebafefd773)
 
 217.182.138.150
+
+***13. What operating system does the victim's computer run?***
+
+windows NT 6.1
+
+![image](https://github.com/user-attachments/assets/bcabb029-1f7d-4059-a6f8-3a70cf7abf7e)
+
+![image](https://github.com/user-attachments/assets/bbaeba5a-b03a-45c2-99b2-36e2196997e9)
