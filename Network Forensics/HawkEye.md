@@ -100,3 +100,13 @@ windows NT 6.1
 ![image](https://github.com/user-attachments/assets/bcabb029-1f7d-4059-a6f8-3a70cf7abf7e)
 
 ![image](https://github.com/user-attachments/assets/bbaeba5a-b03a-45c2-99b2-36e2196997e9)
+
+***14. What is the name of the malicious file downloaded by the accountant?***
+
+tkraw_Protected99.exe
+
+http.request.method == "GET"
+
+![image](https://github.com/user-attachments/assets/107fbd98-5eef-4093-a26f-3bdda3caa9d8)
+
+![image](https://github.com/user-attachments/assets/2dadbc9c-8a9d-44a1-9a77-2b278bfc0935)
