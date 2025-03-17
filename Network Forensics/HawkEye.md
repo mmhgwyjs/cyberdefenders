@@ -124,3 +124,9 @@ Get-FileHash .\tkraw_Protected99.exe -Algorithm MD5
 71826BA081E303866CE2A2534491A2F7
 
 ![image](https://github.com/user-attachments/assets/fae1c8ec-a415-48b1-a8f4-37c5367574de)
+
+***15. What software runs the webserver that hosts the malware?***
+
+LiteSpeed
+
+![image](https://github.com/user-attachments/assets/481da200-1dd1-4c69-82b1-453b376cbb4d)
