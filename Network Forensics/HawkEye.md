@@ -110,3 +110,17 @@ http.request.method == "GET"
 ![image](https://github.com/user-attachments/assets/107fbd98-5eef-4093-a26f-3bdda3caa9d8)
 
 ![image](https://github.com/user-attachments/assets/2dadbc9c-8a9d-44a1-9a77-2b278bfc0935)
+
+***15. What is the md5 hash of the downloaded file?***
+
+File > Export Objects > HTTP
+
+![image](https://github.com/user-attachments/assets/b0d40e27-0e69-4acb-8687-312afe93853e)
+
+![image](https://github.com/user-attachments/assets/a605aa6c-eb3c-46ef-8b47-674dd901f835)
+
+Get-FileHash .\tkraw_Protected99.exe -Algorithm MD5
+
+71826BA081E303866CE2A2534491A2F7
+
+![image](https://github.com/user-attachments/assets/fae1c8ec-a415-48b1-a8f4-37c5367574de)
