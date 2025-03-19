@@ -130,3 +130,9 @@ Get-FileHash .\tkraw_Protected99.exe -Algorithm MD5
 LiteSpeed
 
 ![image](https://github.com/user-attachments/assets/481da200-1dd1-4c69-82b1-453b376cbb4d)
+
+***16. What is the public IP of the victim's computer?***
+
+173.66.146.112
+
+![image](https://github.com/user-attachments/assets/11eb77a6-0a40-435d-96ee-17d088ca8d39)
