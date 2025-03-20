@@ -136,3 +136,9 @@ LiteSpeed
 173.66.146.112
 
 ![image](https://github.com/user-attachments/assets/11eb77a6-0a40-435d-96ee-17d088ca8d39)
+
+***18. In which country is the email server to which the stolen information is sent?***
+
+United States
+
+![image](https://github.com/user-attachments/assets/59846e45-dbe2-48a7-b812-93672aa8d23b)
