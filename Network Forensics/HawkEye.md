@@ -135,6 +135,8 @@ LiteSpeed
 
 173.66.146.112
 
+ip.addr == 10.4.10.132 && http
+
 ![image](https://github.com/user-attachments/assets/11eb77a6-0a40-435d-96ee-17d088ca8d39)
 
 ***18. In which country is the email server to which the stolen information is sent?***
@@ -142,3 +144,11 @@ LiteSpeed
 United States
 
 ![image](https://github.com/user-attachments/assets/59846e45-dbe2-48a7-b812-93672aa8d23b)
+
+***19. Analyzing the first extraction of information. What software runs the email server to which the stolen data is sent?***
+
+Exim 4.91
+
+![image](https://github.com/user-attachments/assets/410cec64-71d8-4a97-83c3-cbc5d860de7c)
+
+ip.addr == 10.4.10.132 && smtp
