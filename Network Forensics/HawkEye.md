@@ -152,3 +152,11 @@ Exim 4.91
 ![image](https://github.com/user-attachments/assets/410cec64-71d8-4a97-83c3-cbc5d860de7c)
 
 ip.addr == 10.4.10.132 && smtp
+
+***20. To which email account is the stolen information sent?***
+
+sales.del@macwinlogistics.in
+
+![image](https://github.com/user-attachments/assets/a9a8ce12-1709-4b23-975e-50bda9e439c7)
+
+![image](https://github.com/user-attachments/assets/841bf6c1-a3e4-4e92-9ca5-7d78d6dbfa12)
