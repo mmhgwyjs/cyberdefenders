@@ -160,3 +160,15 @@ sales.del@macwinlogistics.in
 ![image](https://github.com/user-attachments/assets/a9a8ce12-1709-4b23-975e-50bda9e439c7)
 
 ![image](https://github.com/user-attachments/assets/841bf6c1-a3e4-4e92-9ca5-7d78d6dbfa12)
+
+***21. What is the password used by the malware to send the email?***
+
+U2FsZXNAMjM=
+
+Sales@23
+
+![image](https://github.com/user-attachments/assets/dcbaa213-4d80-41ff-9a7d-f5ef45a4e036)
+
+![image](https://github.com/user-attachments/assets/e9fdfa93-0290-48b6-a942-950be6d3723b)
+
+![image](https://github.com/user-attachments/assets/8bbb31c1-2469-4810-871f-5bf2bde14824)
