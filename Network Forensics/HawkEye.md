@@ -172,3 +172,13 @@ Sales@23
 ![image](https://github.com/user-attachments/assets/e9fdfa93-0290-48b6-a942-950be6d3723b)
 
 ![image](https://github.com/user-attachments/assets/8bbb31c1-2469-4810-871f-5bf2bde14824)
+
+***22. Which malware variant exfiltrated the data?***
+
+Reborn v9
+
+![image](https://github.com/user-attachments/assets/194669c6-d733-4cde-8e57-7ceb8efc5830)
+
+![image](https://github.com/user-attachments/assets/f771698e-c7c8-4dc6-8cf5-ac6a5b850782)
+
+Reference: https://blog.talosintelligence.com/hawkeye-reborn/
