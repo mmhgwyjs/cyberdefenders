@@ -182,3 +182,9 @@ Reborn v9
 ![image](https://github.com/user-attachments/assets/f771698e-c7c8-4dc6-8cf5-ac6a5b850782)
 
 Reference: https://blog.talosintelligence.com/hawkeye-reborn/
+
+***23. What are the bankofamerica access credentials? (username:password)***
+
+roman.mcguire:P@ssw0rd$
+
+![image](https://github.com/user-attachments/assets/0a1597a9-70a3-4d3b-a12a-e840aebdfb9b)
