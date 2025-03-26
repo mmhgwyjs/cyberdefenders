@@ -188,3 +188,15 @@ Reference: https://blog.talosintelligence.com/hawkeye-reborn/
 roman.mcguire:P@ssw0rd$
 
 ![image](https://github.com/user-attachments/assets/0a1597a9-70a3-4d3b-a12a-e840aebdfb9b)
+
+***24. Every how many minutes does the collected data get exfiltrated?***
+
+10
+
+![image](https://github.com/user-attachments/assets/d48f1ea4-ab79-4d6f-b71b-fada2b2d9aa1)
+
+![image](https://github.com/user-attachments/assets/292ee52f-ab8d-4535-8555-87c6e49bc66a)
+
+![image](https://github.com/user-attachments/assets/e02c5284-1aa6-475f-a732-dd8fdd28944d)
+
+
