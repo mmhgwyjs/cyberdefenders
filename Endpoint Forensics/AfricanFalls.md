@@ -19,3 +19,5 @@
 ## **Questions and Answers**
 
 ***1. What is the MD5 hash value of the suspect disk?***
+
+9471e69c95d8909ae60ddff30d50ffa1
