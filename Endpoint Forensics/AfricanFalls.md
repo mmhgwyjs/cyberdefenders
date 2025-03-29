@@ -25,3 +25,7 @@
 ***2. What phrase did the suspect search for on 2021-04-29 18:17:38 UTC? (three words, two spaces in between)***
 
 password cracking lists
+
+***3. What is the IPv4 address of the FTP server the suspect connected to?***
+
+192.168.1.20
