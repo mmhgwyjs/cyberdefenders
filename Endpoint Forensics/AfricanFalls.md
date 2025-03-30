@@ -33,3 +33,7 @@ password cracking lists
 ***4. What date and time was a password list deleted in UTC? (YYYY-MM-DD HH:MM:SS UTC)***
 
 2021-04-29 18:22:17 UTC
+
+***5. How many times was Tor Browser ran on the suspect's computer? (number only)***
+
+0
