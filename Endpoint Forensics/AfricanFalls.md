@@ -45,3 +45,7 @@ dreammaker82@protonmail.com
 ***7. What is the FQDN did the suspect port scan?***
 
 dfir.science
+
+***8. What country was picture "20210429_152043.jpg" allegedly taken in?***
+
+Zambia
