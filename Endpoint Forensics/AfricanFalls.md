@@ -49,3 +49,8 @@ dfir.science
 ***8. What country was picture "20210429_152043.jpg" allegedly taken in?***
 
 Zambia
+
+***9. What is the parent folder name picture "20210429_151535.jpg" was in before the suspect copy it to "contact" folder on his desktop?***
+
+Camera
+
