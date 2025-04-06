@@ -57,3 +57,7 @@ Camera
 ***10. A Windows password hashes for an account are below. What is the user's password? Anon:1001:aad3b435b51404eeaad3b435b51404ee:3DE1A36F6DDB8E036DFD75E8E20C4AF4:::***
 
 AFR1CA!
+
+***11. What is the user "John Doe's" Windows login password?***
+
+ctf2021
