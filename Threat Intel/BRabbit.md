@@ -1,0 +1,28 @@
+# <a href="https://cyberdefenders.org/blueteam-ctf-challenges/brabbit/">BRabbit</a>
+
+**Platform:** CyberDefenders
+
+**Scenario:** You are an investigator assigned to assist Drumbo, a company that recently fell victim to a ransomware attack. The attack began when an employee received an email that appeared to be from the boss. It featured the company’s logo and a familiar email address. Believing the email was legitimate, the employee opened the attachment, which compromised the system and deployed ransomware, encrypting sensitive files. Your task is to investigate and analyze the artifacts to uncover information about the attacker.
+
+**Category:** Threat Intel
+
+**Difficulty:** Medium
+
+**File:** ``
+
+**Tools:** `Google` 
+
+**Note:** In this walkthrough, we will use our OSINT skills. All we need is the Internet.
+
+---
+
+## **Preparations**
+
+MD5: E5B8B2CF5B244500B22B665C87C11767
+
+## **Questions and Answers**
+
+***1. The phishing email used to deliver the malicious attachment showed several indicators of a potential social engineering attempt. Recognizing these indicators can help identify similar threats in the future.
+What is the suspicious email address that sent the attachment?***
+
+theceojamessmith@drurnbo.com
