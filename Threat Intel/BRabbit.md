@@ -26,3 +26,8 @@ MD5: E5B8B2CF5B244500B22B665C87C11767
 What is the suspicious email address that sent the attachment?***
 
 theceojamessmith@drurnbo.com
+
+***2. The ransomware was identified as part of a known malware family. Determining its family name can provide critical insights into its behavior and remediation strategies.
+What is the family name of the ransomware identified during the investigation?***
+
+badrabbit
