@@ -31,3 +31,9 @@ theceojamessmith@drurnbo.com
 What is the family name of the ransomware identified during the investigation?***
 
 badrabbit
+
+***3. Upon execution, the ransomware dropped a file onto the compromised system to initiate its payload. Identifying this file is essential for understanding its infection process.
+What is the name of the first file dropped by the ransomware?***
+
+infpub.dat
+
