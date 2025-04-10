@@ -37,3 +37,7 @@ What is the name of the first file dropped by the ransomware?***
 
 infpub.dat
 
+***4. Inside the dropped file, the malware contained hardcoded artifacts, including usernames and passwords that could provide clues about its origins or configuration.
+What is the only person's username found within the dropped file?***
+
+alex
