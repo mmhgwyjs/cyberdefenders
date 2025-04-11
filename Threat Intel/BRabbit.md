@@ -41,3 +41,8 @@ infpub.dat
 What is the only person's username found within the dropped file?***
 
 alex
+
+***5. After execution, the ransomware communicated with a C2 server. Recognizing its communication techniques can assist in mitigation.
+What MITRE ATT&CK sub-technique describes the ransomware’s use of web protocols for sending and receiving data?**
+
+T1071.001
