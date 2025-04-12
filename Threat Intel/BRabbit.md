@@ -46,3 +46,8 @@ alex
 What MITRE ATT&CK sub-technique describes the ransomware’s use of web protocols for sending and receiving data?**
 
 T1071.001
+
+***6. Persistence mechanisms are a hallmark of sophisticated ransomware. Identifying how persistence was achieved can aid in recovery and prevention of reinfection.
+What is the MITRE ATT&CK Sub-Technique ID associated with the ransomware’s persistence technique?***
+
+T1053.005
