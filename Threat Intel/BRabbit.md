@@ -51,3 +51,8 @@ T1071.001
 What is the MITRE ATT&CK Sub-Technique ID associated with the ransomware’s persistence technique?***
 
 T1053.005
+
+***7. As part of its infection chain, the ransomware created specific tasks to ensure its continued operation. Recognizing these tasks is crucial for system restoration. What are the names of the tasks created by the ransomware during execution?***
+
+rhaegal, drogon
+
