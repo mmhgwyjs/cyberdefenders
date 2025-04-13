@@ -56,3 +56,6 @@ T1053.005
 
 rhaegal, drogon
 
+***8. the malicious binary dispci.exe displayed a suspicious message upon execution, urging users to disable their defenses. This tactic aimed to evade detection and enable the ransomware's full execution. What suspicious message was displayed in the Console upon executing this binary?***
+
+Disable your anti-virus and anti-malware programs
