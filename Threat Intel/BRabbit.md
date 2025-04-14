@@ -59,3 +59,8 @@ rhaegal, drogon
 ***8. the malicious binary dispci.exe displayed a suspicious message upon execution, urging users to disable their defenses. This tactic aimed to evade detection and enable the ransomware's full execution. What suspicious message was displayed in the Console upon executing this binary?***
 
 Disable your anti-virus and anti-malware programs
+
+***9. To modify the Master Boot Record (MBR) and encrypt the victim’s hard drive, the ransomware utilized a specific driver. Recognizing this driver is essential for understanding the encryption mechanism.
+What is the name of the driver used to encrypt the hard drive and modify the MBR?***
+
+DiskCryptor
