@@ -64,3 +64,10 @@ Disable your anti-virus and anti-malware programs
 What is the name of the driver used to encrypt the hard drive and modify the MBR?***
 
 DiskCryptor
+
+***10. Attribution is key to understanding the threat landscape. The ransomware was tied to a known attack group through its tactics, techniques, and procedures (TTPs).
+What is the name of the threat actor responsible for this ransomware campaign?***
+
+Sandworm
+
+https://attack.mitre.org/software/S0606/
