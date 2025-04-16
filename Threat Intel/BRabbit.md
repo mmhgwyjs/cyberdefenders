@@ -71,3 +71,8 @@ What is the name of the threat actor responsible for this ransomware campaign?**
 Sandworm
 
 https://attack.mitre.org/software/S0606/
+
+***11. The ransomware rendered the system unbootable by corrupting critical system components. Identifying the technique used provides insight into its destructive capabilities.
+What is the MITRE ATT&CK ID for the technique used to corrupt the system firmware and prevent booting?***
+
+T1495
