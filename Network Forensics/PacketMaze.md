@@ -27,3 +27,7 @@ AfricaCTF2021
 ***2. What is the IPv6 address of the DNS server used by 192.168.1.26?***
 
 fe80::c80b:adff:feaa:1db7
+
+3. What domain is the user looking up in packet 15174?
+
+www.7-zip.org
