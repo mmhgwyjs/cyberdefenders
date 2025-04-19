@@ -23,3 +23,7 @@
 ***1. What is the FTP password?***
 
 AfricaCTF2021
+
+***2. What is the IPv6 address of the DNS server used by 192.168.1.26?***
+
+fe80::c80b:adff:feaa:1db7
