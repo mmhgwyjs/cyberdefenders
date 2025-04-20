@@ -28,6 +28,10 @@ AfricaCTF2021
 
 fe80::c80b:adff:feaa:1db7
 
-3. What domain is the user looking up in packet 15174?
+***3. What domain is the user looking up in packet 15174?***
 
 www.7-zip.org
+
+***4. How many UDP packets were sent from 192.168.1.26 to 24.39.217.246?***
+
+10
