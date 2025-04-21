@@ -35,3 +35,7 @@ www.7-zip.org
 ***4. How many UDP packets were sent from 192.168.1.26 to 24.39.217.246?***
 
 10
+
+***5. What is the MAC address of the system under investigation in the PCAP file?***
+
+c8:09:a8:57:47:93
