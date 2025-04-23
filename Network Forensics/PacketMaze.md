@@ -39,3 +39,7 @@ www.7-zip.org
 ***5. What is the MAC address of the system under investigation in the PCAP file?***
 
 c8:09:a8:57:47:93
+
+***6. What was the camera model name used to take picture 20210429_152157.jpg?***
+
+LM-Q725K
