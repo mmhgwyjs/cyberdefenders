@@ -47,3 +47,7 @@ LM-Q725K
 ***7. What is the ephemeral public key provided by the server during the TLS handshake in the session with the session ID: da4a0000342e4b73459d7360b4bea971cc303ac18d29b99067e46d16cc07f4ff?***
 
 04edcc123af7b13e90ce101a31c2f996f471a7c8f48a1b81d765085f548059a550f3f4f62ca1f0e8f74d727053074a37bceb2cbdc7ce2a8994dcd76dd6834eefc5438c3b6da929321f3a1366bd14c877cc83e5d0731b7f80a6b80916efd4a23a4d
+
+***8. What is the first TLS 1.3 client random that was used to establish a connection with protonmail.com?***
+
+24e92513b97a0348f733d16996929a79be21b0b1400cd7e2862a732ce7775b70
