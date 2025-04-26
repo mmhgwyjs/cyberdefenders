@@ -51,3 +51,7 @@ LM-Q725K
 ***8. What is the first TLS 1.3 client random that was used to establish a connection with protonmail.com?***
 
 24e92513b97a0348f733d16996929a79be21b0b1400cd7e2862a732ce7775b70
+
+***9. Which country is the manufacturer of the FTP server’s MAC address registered in?***
+
+United States
