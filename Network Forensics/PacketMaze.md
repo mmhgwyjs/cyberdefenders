@@ -55,3 +55,7 @@ LM-Q725K
 ***9. Which country is the manufacturer of the FTP server’s MAC address registered in?***
 
 United States
+
+***10. What time was a non-standard folder created on the FTP server on the 20th of April?***
+
+17:53
